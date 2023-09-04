@@ -4,35 +4,21 @@
     "href": "course-overview.html",
     "title": "Course overview",
     "section": "",
-    "text": "Intro to data science and statistical thinking. Learn to explore, visualize, and analyze data to understand natural phenomena, investigate patterns, model outcomes, and make predictions, and do so in a reproducible and shareable manner. Gain experience in data wrangling and munging, exploratory data analysis, predictive modeling, and data visualization, and effective communication of results. Work on problems and case studies inspired by and based on real-world questions and data. The course will focus on the Python computing language. No statistical or computing background is necessary.\ntbd"
+    "text": "The course Large Language Model applications focuses on exploring and realizing the potential of LLMs (e.g., GPT-4 from OpenAI) to automate various business tasks. In particular, we will investigate how LLMs can be used to automate routine tasks such as composing emails and creating reports.\n\n\n\n\n\n\nGoal\n\n\n\nThe goal is to increase productivity and efficiency in companies while ensuring the quality and consistency of the content generated.\n\n\nThe project is offered in collaboration with Zoi, a company specializing in the development and consulting of AI-based technologies and applications in cloud environments."
   },
   {
-    "objectID": "about.html",
-    "href": "about.html",
-    "title": "About",
+    "objectID": "programming-troubleshooting.html",
+    "href": "programming-troubleshooting.html",
+    "title": "Programming troubleshooting",
     "section": "",
-    "text": "About this site"
+    "text": "tbd"
   },
   {
-    "objectID": "code/notebook.html",
-    "href": "code/notebook.html",
-    "title": "Notebook",
+    "objectID": "index.html",
+    "href": "index.html",
+    "title": "LLM Applications",
     "section": "",
-    "text": "Load Python libaries and API keys.\n\nimport os\nimport openai\nimport pandas as pd\nimport altair as alt\nfrom dotenv import load_dotenv, find_dotenv\n\n\n_ = load_dotenv(find_dotenv()) # read local .env file\nopenai.api_key  = os.environ['OPENAI_API_KEY']"
-  },
-  {
-    "objectID": "code/notebook.html#setup",
-    "href": "code/notebook.html#setup",
-    "title": "Notebook",
-    "section": "",
-    "text": "Load Python libaries and API keys.\n\nimport os\nimport openai\nimport pandas as pd\nimport altair as alt\nfrom dotenv import load_dotenv, find_dotenv\n\n\n_ = load_dotenv(find_dotenv()) # read local .env file\nopenai.api_key  = os.environ['OPENAI_API_KEY']"
-  },
-  {
-    "objectID": "code/notebook.html#data",
-    "href": "code/notebook.html#data",
-    "title": "Notebook",
-    "section": "Data",
-    "text": "Data"
+    "text": "This page contains an outline of the topics, content, and assignments for the semester. Note that this schedule will be updated as the semester progresses and the timeline of topics and assignments might be updated throughout the semester."
   },
   {
     "objectID": "course-links.html",
@@ -110,13 +96,6 @@
     "title": "Syllabus",
     "section": "Course policies",
     "text": "Course policies\n\nAcademic integrity\nTL;DR: Don’t cheat!\nAll students must adhere to the academic integrity standard. Students affirm their commitment to uphold the values by signing a pledge that states:\n\nI will not lie, cheat, or steal in my academic endeavors;\nI will conduct myself honorably in all my endeavors;\nI will act if the standard is compromised\n\nRegardless of the course delivery format, it is your responsibility to understand and follow HdM policies regarding academic integrity, including doing one’s own work, following proper citation of sources, and adhering to guidance around group work projects.\n\n\nCollaboration policy\nOnly work that is clearly assigned as team work should be completed collaboratively.\n\nThe homework assignments must be completed individually and you are welcomed to discuss the assignment with classmates at a high level (e.g., discuss what’s the best way for approaching a problem, what functions are useful for accomplishing a particular task, etc.). However you may not directly share answers to homework questions (including any code) with anyone other than myself and the teaching assistants.\nFor the projects, collaboration within teams is not only allowed, but expected. Communication between teams at a high level is also allowed however you may not share code or components of the project across teams.\n\n\n\nPolicy on sharing and reusing code\nI am well aware that a huge volume of code is available on the web to solve any number of problems.\nUnless I explicitly tell you not to use something, the course’s policy is that you may make use of any online resources (e.g. StackOverflow) but you must explicitly cite where you obtained any code you directly use (or use as inspiration).\nAny recycled code that is discovered and is not explicitly cited will be treated as plagiarism.\nOn individual assignments you may not directly share code with another student in this class, and on team assignments you may not directly share code with another team in this class.\n\n\nLate work policy\nThe due dates for assignments are there to help you keep up with the course material. However, I understand that things come up periodically that could make it difficult to submit an assignment by the deadline. Here are the rules for late submissions:\n\nHomeworks may be submitted up to 3 days late. There will be a 25% deduction for each 24-hour period the assignment is late.\nThere is no late work accepted for application exercises, since these are designed to help you prepare for homeworks.\nProject taks may be submitted up to 2 days late. There will be a 25% deduction for each 24-hour period the project task is late.\n\nIf there are important circumstances that prevent you from completing a lab or homework assignment by the stated due date, you may email me at kirenz@hdm-stuttgart.de before the deadline."
-  },
-  {
-    "objectID": "programming-toolkit.html",
-    "href": "programming-toolkit.html",
-    "title": "Programming toolkit",
-    "section": "",
-    "text": "tbd"
   },
   {
     "objectID": "project-tips-resources.html",
@@ -231,18 +210,32 @@
     "text": "tbd"
   },
   {
-    "objectID": "index.html",
-    "href": "index.html",
-    "title": "tbd",
+    "objectID": "programming-requirements.html",
+    "href": "programming-requirements.html",
+    "title": "Requirements",
     "section": "",
-    "text": "This page contains an outline of the topics, content, and assignments for the semester. Note that this schedule will be updated as the semester progresses and the timeline of topics and assignments might be updated throughout the semester."
+    "text": "For this course you will need the following toolkit ⚒️:\n\nPython: Anaconda, Anaconda Environments gradio, langchain, kernel and Visual Studio Code\nEnvironment: HuggingFace API key; OpenAI API and an environment file with your APIs\n\n\n\n\n\n\n\nProgramming Toolkit\n\n\n\nVisit the “Programming Toolkit-webpage” to learn how to meet all requirements."
   },
   {
-    "objectID": "programming-troubleshooting.html",
-    "href": "programming-troubleshooting.html",
-    "title": "Programming troubleshooting",
+    "objectID": "code/notebook.html",
+    "href": "code/notebook.html",
+    "title": "Notebook",
     "section": "",
-    "text": "tbd"
+    "text": "Load Python libaries and API keys.\n\nimport os\nimport openai\nimport pandas as pd\nimport altair as alt\nfrom dotenv import load_dotenv, find_dotenv\n\n\n_ = load_dotenv(find_dotenv()) # read local .env file\nopenai.api_key  = os.environ['OPENAI_API_KEY']"
+  },
+  {
+    "objectID": "code/notebook.html#setup",
+    "href": "code/notebook.html#setup",
+    "title": "Notebook",
+    "section": "",
+    "text": "Load Python libaries and API keys.\n\nimport os\nimport openai\nimport pandas as pd\nimport altair as alt\nfrom dotenv import load_dotenv, find_dotenv\n\n\n_ = load_dotenv(find_dotenv()) # read local .env file\nopenai.api_key  = os.environ['OPENAI_API_KEY']"
+  },
+  {
+    "objectID": "code/notebook.html#data",
+    "href": "code/notebook.html#data",
+    "title": "Notebook",
+    "section": "Data",
+    "text": "Data"
   },
   {
     "objectID": "course-support.html",
