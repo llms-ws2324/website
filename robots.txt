@@ -1,0 +1,1 @@
+Sitemap: https://myplaceholder.github.io/website/sitemap.xml
