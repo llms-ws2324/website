@@ -1,8 +1,6 @@
 ---
-title: "tbd"
-subtitle: "tbd"
-execute:
-  freeze: false
+title: "LLM Applications"
+subtitle: "Course overview"
 ---
 
 This page contains an outline of the topics, content, and assignments for the semester.
