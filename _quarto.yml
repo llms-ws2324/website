@@ -6,10 +6,10 @@ execute:
 
 website:
   page-navigation: true
-  title: "Title"
-  description: "Homepage for xyz at HdM Stuttgart, WS 23/24."
-  site-url: "https://myplaceholder.github.io/website/"
-  repo-url: https://github.com/myplaceholder/website
+  title: "LLM Applications"
+  description: "Website for LLM project at HdM Stuttgart, WS 23/24, Prof. Dr. Jan Kirenz."
+  site-url: "https://llms-ws2324.github.io//website/"
+  repo-url: https://github.com/llms-ws2324/website
   repo-actions: [edit, issue]
   open-graph: true
   image: "/images/logo.png"
@@ -39,7 +39,7 @@ website:
     align: center
     tools:
       - icon: github
-        href: https://github.com/myplaceholder
+        href: https://github.com/llms-ws2324
         text: "GitHub organization"
       - icon: person-fill
         text: "Moodle"
@@ -65,8 +65,8 @@ website:
             text: FAQ
       - section: "Programming"
         contents:
-          - href: programming-toolkit.qmd
-            text: Toolkit
+          - href: programming-requirements.qmd
+            text: Requirements
           - href: programming-troubleshooting.qmd
             text: Troubleshooting
       - section: "Project"
