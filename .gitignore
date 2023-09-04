@@ -1,0 +1,26 @@
+# ignore environment files
+.env
+code/.env
+*/.env
+
+# ignore macOS folder attribute files
+.DS_Store
+*/.DS_Store
+
+# Byte-compiled / optimized / DLL files
+__pycache__/
+*.py[cod]
+*$py.class
+
+# Jupyter Notebook
+.ipynb_checkpoints
+
+# other files and environments to ignore
+/.quarto/
+workflow.qmd
+quiz.txt
+howto.qmd
+/slides/env/*
+/slides/env/
+/_*.local
+/_site/
