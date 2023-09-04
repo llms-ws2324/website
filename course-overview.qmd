@@ -2,12 +2,13 @@
 title: "Course overview"
 ---
 
-Intro to data science and statistical thinking.
-Learn to explore, visualize, and analyze data to understand natural phenomena, investigate patterns, model outcomes, and make predictions, and do so in a reproducible and shareable manner.
-Gain experience in data wrangling and munging, exploratory data analysis, predictive modeling, and data visualization, and effective communication of results.
-Work on problems and case studies inspired by and based on real-world questions and data.
-The course will focus on the Python computing language.
-No statistical or computing background is necessary.
+![](/images/logo.png)
 
+The course Large Language Model applications focuses on exploring and realizing the potential of LLMs (e.g., GPT-4 from OpenAI) to automate various business tasks. In particular, we will investigate how LLMs can be used to automate routine tasks such as composing emails and creating reports. 
 
-tbd
+:::{.callout-tip}
+## Goal
+The goal is to increase productivity and efficiency in companies while ensuring the quality and consistency of the content generated. 
+:::
+
+The project is offered in collaboration with [Zoi](https://www.zoi.tech/de), a company specializing in the development and consulting of AI-based technologies and applications in cloud environments.
