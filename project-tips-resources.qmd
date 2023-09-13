@@ -2,9 +2,20 @@
 title: "Project tips + resources"
 ---
 
+## Use cases
+
 [McKinsey (2023). The economic potential of generative AI: The next productivity frontier. White paper](https://www.mckinsey.com/capabilities/mckinsey-digital/our-insights/the-economic-potential-of-generative-ai-the-next-productivity-frontier#introduction)
 
+## Code examples
 
 [OpenAI (2023a). Explore what's possible with some example applications.](https://platform.openai.com/examples)
 
 [OpenAI (2023b). Creating an automated meeting minutes generator with Whisper and GPT-4](https://platform.openai.com/docs/tutorials/meeting-minutes)
+
+[LangChain (2023). Reference implementations of several LangChain agents as Streamlit apps]()
+
+a search enabled chatbot that remembers chat history (app here)
+a chat app that allows the user to add feedback on responses using Streamlit feedback and link to the traces in LangSmith (we’ve been using this one a lot lately)
+a chatbot capable of answering queries by referring custom documents (app here)
+a chatbot which can communicate with your database (app here)
+lots more
