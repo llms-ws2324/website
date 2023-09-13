@@ -8,7 +8,7 @@ title: "Project description"
 
 | Topic                 | Deadline      | GitHub folder & hints |
 | ---                   | ---           |  ---                  |
-|[Topic ideas](@sec-topic-ideas)        | Fri, Oct 28   | references/           |
+|[Project ideas](@sec-topic-ideas)        | Fri, Oct 28   | references/           |
 |[Project proposal](@sec-project-proposal)   | Fri, 2 Dec   | references/           |
 |[Project draft](@sec-draft-analysis)     | Fri, Dec 9    | notebooks/            |
 |[Peer review](@sec-peer-review-draft)  | Fri, Dec 16   | use [](issue-template)|
@@ -23,7 +23,7 @@ title: "Project description"
 
 **TL;DR**: *Choose a use case and use the concepts and methods covered in our course to effectively create a LLM application. That is your final project.*
 
-The goal of the final project is for you to create a LLM application of your own choosing and effectively communicate the results (using the concepts and technology we covered in this course).
+The goal of the final project is for you to create a LLM application of your own choosing and effectively document and communicate the results (using the concepts and technology we covered in this course).
 
 Choose the use case based on your group's interests or work you all have done in other courses or research projects.
 The goal of this project is for you to demonstrate proficiency in the techniques we have covered in this course (and beyond, if you like) and apply them to a use case in a meaningful way.
@@ -36,8 +36,8 @@ You will work on the project with your team. Use the provided Github-repo and te
 
 The primary deliverables for the final project are
 
--   A draft analysis ("draft-analysis.ipynb")
--   A written, reproducible report detailing your analysis ("report.ipynb")
+-   A project draft ("draft-analysis.ipynb")
+-   A written, reproducible report detailing your project ("report.ipynb")
 -   A GitHub repository corresponding to your report
 -   Slides + a video presentation
 -   Formal peer review on another team's project
@@ -47,11 +47,10 @@ The primary deliverables for the final project are
 ## Topic ideas {#sec-topic-ideas}
 
 
-Identify 2 data sets you're interested in potentially using for the final project. The data sets should be suitable to be used alongside the topics described in the ["Big Idea Worksheet"](https://docs.google.com/document/d/1-GZvhdbhLYLB_Bo1arj1rgTqbJ5SUoU21vtgbYEhVqk/edit?usp=sharing). 
+Identify 3 project ideas you're interested in potentially using for the final project. Use the ["Big Idea Worksheet for Projects"](https://docs.google.com/document/d/1UDTnv7mnqfOH-jgDf9ymtz1qw4q0dIm1VRK2OTeMF3A/edit?usp=sharing) to provide a short description of your project ideas.
 
 
-If you're unsure where to find data, you can use the list of potential data sources in the [Tips + Resources](project-tips-resources.qmd) section as a starting point.
-It may also help to think of topics you're interested in investigating and find data sets on those topics.
+If you're unsure where to find use cases, you can use the list of potential projects in the [Tips + Resources](project-tips-resources.qmd) section as a starting point. 
 
 The purpose of submitting project ideas is to give you time to find data for the project and to make sure you have a data set that can help you be successful in the project.
 **Therefore, you must use one of the data sets submitted as a topic idea, unless otherwise notified.**
