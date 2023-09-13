@@ -2,20 +2,43 @@
 title: "Project tips + resources"
 ---
 
-## Use cases
 
-[McKinsey (2023). The economic potential of generative AI: The next productivity frontier. White paper](https://www.mckinsey.com/capabilities/mckinsey-digital/our-insights/the-economic-potential-of-generative-ai-the-next-productivity-frontier#introduction)
-
-## Code examples
+## Gen AI Code examples
 
 [OpenAI (2023a). Explore what's possible with some example applications.](https://platform.openai.com/examples)
 
-[OpenAI (2023b). Creating an automated meeting minutes generator with Whisper and GPT-4](https://platform.openai.com/docs/tutorials/meeting-minutes)
+[OpenAI (2023b). Creating an automated meeting minutes generator with Whisper and GPT-4.](https://platform.openai.com/docs/tutorials/meeting-minutes)
 
-[LangChain (2023). Reference implementations of several LangChain agents as Streamlit apps]()
+[LangChain (2023). Reference implementations of several LangChain agents as Streamlit apps](https://github.com/langchain-ai/streamlit-agent)
 
-a search enabled chatbot that remembers chat history (app here)
-a chat app that allows the user to add feedback on responses using Streamlit feedback and link to the traces in LangSmith (we’ve been using this one a lot lately)
-a chatbot capable of answering queries by referring custom documents (app here)
-a chatbot which can communicate with your database (app here)
-lots more
+
+[Curated list of tools and projects using LangChain.](https://github.com/kyrolabs/awesome-langchain)
+
+## Business use cases
+
+[Gartner (2023). Gartner Experts Answer the Top Generative AI Questions for Your Enterprise](https://www.gartner.com/en/topics/generative-ai)
+
+
+[McKinsey (2023). The economic potential of generative AI: The next productivity frontier. White paper](https://www.mckinsey.com/capabilities/mckinsey-digital/our-insights/the-economic-potential-of-generative-ai-the-next-productivity-frontier#introduction)
+
+[Microsoft (2023). Responsible AI and Semantic Kernel.](https://learn.microsoft.com/en-us/semantic-kernel/when-to-use-ai/responsible-ai)
+
+
+[WIRED (2023). How WIRED Will Use Generative AI Tools.](https://www.wired.com/about/generative-ai-policy/)
+
+
+## Gen AI companies
+
+[Workhelix](https://www.workhelix.com/) brings together cutting-edge research and comprehensive data to assess your company’s Generative AI opportunity. Our software creates an interactive, dynamic roadmap tailored to your organization.
+
+[Workera](https://workera.ai/): Accelerate your enterprise transformation by assessing your team's skills, rapidly upskilling, and measuring their progress in cutting-edge technologies like GenAI.
+
+[Speechlab](https://www.speechlab.ai/): Bridge Language Barriers through Generative Speech
+
+[Credo AI](https://www.credo.ai/product) is an AI governance platform that helps companies adopt, scale, and govern AI safely and effectively.
+
+
+## Research papers
+
+[Brynjolfsson, E., Li, D., & Raymond, L. R. (2023). Generative AI at work (No. w31161). National Bureau of Economic Research.](https://www.nber.org/papers/w31161)
+
