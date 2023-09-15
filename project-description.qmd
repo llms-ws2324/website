@@ -19,11 +19,9 @@ Identify 3 project ideas you're interested in potentially using for the final pr
 
 If you're unsure where to find use cases, you can use the [Tips + Resources](project-tips-resources.qmd) section as a starting point. 
 
-
-
 ## Project grading criterias
 
-### **1. Use Case Identification (20 points)**
+**1. Use Case Identification (20 points)**
 
 1. **Relevance and Originality (10 points)**
     - **Exceptional (8-10):** Use case is original, highly relevant to the target audience, and exhibits deep insight into potential applications of generative AI.
@@ -37,7 +35,7 @@ If you're unsure where to find use cases, you can use the [Tips + Resources](pro
     - **Basic (3-4):** The problem definition and scope are vague.
     - **Needs Improvement (0-2):** The problem is poorly defined with an unclear scope.
 
-### **2. Application Development (40 points)**
+**2. Application Development (40 points)**
 
 3. **Code Quality and Organization (10 points)**
     - **Exceptional (8-10):** Code is exceptionally well-organized, uses effective naming conventions, includes meaningful comments, and follows best practices.
@@ -63,7 +61,7 @@ If you're unsure where to find use cases, you can use the [Tips + Resources](pro
     - **Basic (1-2):** AI is present but feels tacked on or superficial.
     - **Needs Improvement (0):** Little to no AI integration.
 
-### **3. User Interface (UI) (20 points)**
+**3. User Interface (UI) (20 points)**
 
 7. **Design and Aesthetics (10 points)**
     - **Exceptional (8-10):** UI is intuitive, visually appealing, and enhances user experience.
@@ -77,7 +75,7 @@ If you're unsure where to find use cases, you can use the [Tips + Resources](pro
     - **Basic (3-4):** UI has several usability or interaction issues.
     - **Needs Improvement (0-2):** UI lacks interactivity or is difficult to use.
 
-### **4. Documentation and Presentation (20 points)**
+**4. Documentation and Presentation (20 points)**
 
 9. **Project Documentation in GitHub (10 points)**
     - **Exceptional (8-10):** Documentation is comprehensive, covering the use case, design decisions, implementation, and user instructions.
