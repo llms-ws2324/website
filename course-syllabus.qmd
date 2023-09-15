@@ -17,7 +17,7 @@ title: "Syllabus"
 
 ## Learning objectives
 
-The course Large Language Model applications focuses on exploring and realizing the potential of LLMs (e.g., GPT-4 from OpenAI) to automate various business tasks. In particular, we will investigate how LLMs can be used to automate routine tasks such as composing emails and creating reports. 
+The course Large Language Model applications focuses on exploring and realizing the potential of LLMs (e.g., GPT-4 from OpenAI) to automate various business tasks. In particular, we will investigate how LLMs can be used to automate routine tasks such as composing emails and creating reports. However, you can also work on applications related to customers (e.g. customer service chatbot).   
 
 By the end of the semester, you will be able to use popular frameworks like Hugging Face, OpenAI Models, LangChain, Microsoft Kernel and Gradio to build LLM applications
 
@@ -29,11 +29,6 @@ By the end of the semester, you will be able to use popular frameworks like Hugg
 - Emails should be reserved for questions not appropriate for the public forum. **If you email me, please include the name of our course in the subject line.** 
 
 Check out the [Support](course-support.qmd) page for more resources.
-
-## Textbooks
-
-This course is mainly based on the following resources:
-
 
 
 ## Lectures
@@ -48,34 +43,38 @@ You are expected to bring a laptop to each class so that you can take part in th
 
 You will be assigned to a team at the beginning of the semester.
 
-All team members are expected to contribute equally to the completion of the project and you will be asked to evaluate your team members throughout the semester.
-
-Failure to adequately contribute to an assignment will result in a penalty to your mark relative to the team's overall mark.
+All team members are expected to contribute equally to the completion of the project and you will be asked to evaluate your team members throughout the semester. Failure to adequately contribute to an assignment will result in a penalty to your mark relative to the team's overall mark.
 
 You are expected to make use of the provided GitHub repository as the central collaborative platform. [Commits](https://github.com/git-guides/git-commit) to this repository will be used as a metric (one of several) of each team member's relative contribution for each project.
 
 ## Assessment
 
-Assessment for the course is comprised of this component: 
+The purpose of the project is to build and present a LLM application. The project will be completed in teams.
 
-- [project](@sec-project)
+:::{.callout-note}
+Take a look at the [project description](project-description.qmd) for a more detailed explanation of the grading criterias
+:::
 
-
-### Project {#sec-project}
-
-The purpose of the [project](project-description.qmd) is to build and present a LLM application. The project will be completed in **teams**.
-
-More information about the project will be provided during the semester.
-
-## Grading
 
 The final course grade will be calculated as follows:
 
-| Category              | Percentage      |
-|-----------------------|-----------------|
-| Documentation         | 10%             |
-| Project               | 70%             |
-| Presentation          | 20%             |
+
+| Criteria & Sub-Criteria                                   | Exceptional      | Proficient       | Basic            | Needs Improvement |
+|-----------------------------------------------------------|------------------|------------------|------------------|------------------|
+| **Use Case Identification**                               |                  |                  |                  |                  |
+| 1. Relevance and Originality                              | 8-10 points      | 5-7 points       | 3-4 points       | 0-2 points       |
+| 2. Clear Definition and Scope                             | 8-10 points      | 5-7 points       | 3-4 points       | 0-2 points       |
+| **Application Development**                               |                  |                  |                  |                  |
+| 3. Code Quality and Organization                          | 8-10 points      | 5-7 points       | 3-4 points       | 0-2 points       |
+| 4. Algorithm Implementation and Efficiency                | 12-15 points     | 8-11 points      | 4-7 points       | 0-3 points       |
+| 5. Error Handling and Robustness                          | 8-10 points      | 5-7 points       | 3-4 points       | 0-2 points       |
+| 6. Integration of AI                                      | 4-5 points       | 3 points         | 1-2 points       | 0 points         |
+| **User Interface (UI)**                                   |                  |                  |                  |                  |
+| 7. Design and Aesthetics                                  | 8-10 points      | 5-7 points       | 3-4 points       | 0-2 points       |
+| 8. Usability and Interaction                              | 8-10 points      | 5-7 points       | 3-4 points       | 0-2 points       |
+| **Documentation and Presentation**                        |                  |                  |                  |                  |
+| 9. Project Documentation                                  | 8-10 points      | 5-7 points       | 3-4 points       | 0-2 points       |
+| 10. Presentation and Communication                         | 8-10 points      | 5-7 points       | 3-4 points       | 0-2 points       |
 
 
 The final grade will be determined based on the following thresholds:
@@ -110,11 +109,3 @@ All students must adhere to the academic integrity standard. Students affirm the
 -   I will act if the standard is compromised
 
 Regardless of the course delivery format, it is your responsibility to understand and follow HdM policies regarding academic integrity, including doing one's own work, following proper citation of sources, and adhering to guidance around group work projects.
-
-
-
-### Late work policy
-
-The due dates for assignments are there to help you keep up with the course material. Here are the rules for late submissions:
-
-Project tasks may be submitted up to 2 days late. There will be a 25% deduction for each 24-hour period the project task is late.
