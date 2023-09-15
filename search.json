@@ -77,48 +77,6 @@
     "text": "Data"
   },
   {
-    "objectID": "course-links.html",
-    "href": "course-links.html",
-    "title": "Useful links",
-    "section": "",
-    "text": "tbd"
-  },
-  {
-    "objectID": "course-faq.html",
-    "href": "course-faq.html",
-    "title": "FAQ",
-    "section": "",
-    "text": "tbd"
-  },
-  {
-    "objectID": "programming-troubleshooting.html",
-    "href": "programming-troubleshooting.html",
-    "title": "Programming troubleshooting",
-    "section": "",
-    "text": "tbd"
-  },
-  {
-    "objectID": "index.html",
-    "href": "index.html",
-    "title": "LLM Applications",
-    "section": "",
-    "text": "This page contains an outline of the topics, content, and assignments for the semester.\nNote that this schedule will be updated as the semester progresses and the timeline of topics and assignments might be updated throughout the semester."
-  },
-  {
-    "objectID": "programming-requirements.html",
-    "href": "programming-requirements.html",
-    "title": "Requirements",
-    "section": "",
-    "text": "For this course you will need the following toolkit ⚒️:\n\nPython: Anaconda, Anaconda Environments gradio, langchain, kernel and Visual Studio Code\nEnvironment: HuggingFace API key; OpenAI API and an environment file with your APIs\n\n\n\n\n\n\n\nProgramming Toolkit\n\n\n\nVisit the “Programming Toolkit-webpage” to learn how to meet all requirements."
-  },
-  {
-    "objectID": "course-overview.html",
-    "href": "course-overview.html",
-    "title": "Course overview",
-    "section": "",
-    "text": "The course Large Language Model applications focuses on exploring and realizing the potential of LLMs (e.g., GPT-4 from OpenAI) to automate various business tasks. In particular, we will investigate how LLMs can be used to automate routine tasks such as composing emails and creating reports.\n\n\n\n\n\n\nGoal\n\n\n\nThe goal is to increase productivity and efficiency in companies while ensuring the quality and consistency of the content generated.\n\n\nThe project is offered in collaboration with Zoi, a company specializing in the development and consulting of AI-based technologies and applications in cloud environments."
-  },
-  {
     "objectID": "project-tips-resources.html",
     "href": "project-tips-resources.html",
     "title": "Project tips + resources",
@@ -152,6 +110,34 @@
     "title": "Project tips + resources",
     "section": "Research papers",
     "text": "Research papers\nBrynjolfsson, E., Li, D., & Raymond, L. R. (2023). Generative AI at work (No. w31161). National Bureau of Economic Research."
+  },
+  {
+    "objectID": "programming-troubleshooting.html",
+    "href": "programming-troubleshooting.html",
+    "title": "Programming troubleshooting",
+    "section": "",
+    "text": "tbd"
+  },
+  {
+    "objectID": "index.html",
+    "href": "index.html",
+    "title": "LLM Applications",
+    "section": "",
+    "text": "This page contains an outline of the topics, content, and assignments for the semester.\nNote that this schedule will be updated as the semester progresses and the timeline of topics and assignments might be updated throughout the semester."
+  },
+  {
+    "objectID": "programming-requirements.html",
+    "href": "programming-requirements.html",
+    "title": "Requirements",
+    "section": "",
+    "text": "For this course you will need the following toolkit ⚒️:\n\nPython: Anaconda, Anaconda Environments gradio, langchain, kernel and Visual Studio Code\nEnvironment: HuggingFace API key; OpenAI API and an environment file with your APIs\n\n\n\n\n\n\n\nProgramming Toolkit\n\n\n\nVisit the “Programming Toolkit-webpage” to learn how to meet all requirements."
+  },
+  {
+    "objectID": "course-overview.html",
+    "href": "course-overview.html",
+    "title": "Course overview",
+    "section": "",
+    "text": "The course Large Language Model applications focuses on exploring and realizing the potential of LLMs (e.g., GPT-4 from OpenAI) to automate various business tasks. In particular, we will investigate how LLMs can be used to automate routine tasks such as composing emails and creating reports.\n\n\n\n\n\n\nGoal\n\n\n\nThe goal is to increase productivity and efficiency in companies while ensuring the quality and consistency of the content generated.\n\n\nThe project is offered in collaboration with Zoi, a company specializing in the development and consulting of AI-based technologies and applications in cloud environments."
   },
   {
     "objectID": "project-description.html",
@@ -207,7 +193,7 @@
     "href": "course-support.html#discussion-forum",
     "title": "Course support",
     "section": "Discussion forum",
-    "text": "Discussion forum\nPrefer to write out your question in detail rather than asking in person? The online discussion forum is the best venue for these! We will use the Moodle forum as the online discussion forum. There is a chance another student has already asked a similar question, so please check the other posts before adding a new question. If you know the answer to a question that is posted, I encourage you to respond!"
+    "text": "Discussion forum\nPrefer to write out your question in detail rather than asking in person? The online discussion forum is the best venue for these! We will use the Moodle forum as the online discussion forum.\nThere is a chance another student has already asked a similar question, so please check the other posts before adding a new question. If you know the answer to a question that is posted, I encourage you to respond!"
   },
   {
     "objectID": "course-support.html#email",
