@@ -61,8 +61,6 @@ website:
             text: Schedule
           - href: course-links.qmd
             text: Useful links
-          - href: course-faq.qmd
-            text: FAQ
       - section: "Programming"
         contents:
           - href: programming-requirements.qmd
