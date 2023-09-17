@@ -91,11 +91,18 @@
     "text": "OpenAI (2023a). Explore what’s possible with some example applications.\nOpenAI (2023b). Creating an automated meeting minutes generator with Whisper and GPT-4.\nLangChain (2023). Reference implementations of several LangChain agents as Streamlit apps\nCurated list of tools and projects using LangChain."
   },
   {
-    "objectID": "project-tips-resources.html#business-use-cases",
-    "href": "project-tips-resources.html#business-use-cases",
+    "objectID": "project-tips-resources.html#gen-ai-business-use-cases",
+    "href": "project-tips-resources.html#gen-ai-business-use-cases",
     "title": "Project tips + resources",
-    "section": "Business use cases",
-    "text": "Business use cases\nGartner (2023a). Gartner Experts Answer the Top Generative AI Questions for Your Enterprise\nGartner (2023b) How Can Generative AI Be Used to Improve Customer Service and Support?\nMcKinsey (2023). The economic potential of generative AI: The next productivity frontier. White paper\nMicrosoft (2023). Responsible AI and Semantic Kernel.\nWIRED (2023). How WIRED Will Use Generative AI Tools."
+    "section": "Gen AI business use cases",
+    "text": "Gen AI business use cases\nGartner (2023a). Gartner Experts Answer the Top Generative AI Questions for Your Enterprise\nGartner (2023b) How Can Generative AI Be Used to Improve Customer Service and Support?\nMcKinsey (2023). The economic potential of generative AI: The next productivity frontier. White paper\nMicrosoft (2023). Responsible AI and Semantic Kernel.\nWIRED (2023). How WIRED Will Use Generative AI Tools."
+  },
+  {
+    "objectID": "project-tips-resources.html#ai-newsletters",
+    "href": "project-tips-resources.html#ai-newsletters",
+    "title": "Project tips + resources",
+    "section": "AI Newsletters",
+    "text": "AI Newsletters\nFree newsletters of Data Science articles, news, tools, libraries, and cool projects:\n\nThe Batch\nData Machina\nData Science Weekly"
   },
   {
     "objectID": "project-tips-resources.html#gen-ai-companies",
@@ -105,11 +112,11 @@
     "text": "Gen AI companies\nWorkhelix brings together cutting-edge research and comprehensive data to assess your company’s Generative AI opportunity. Our software creates an interactive, dynamic roadmap tailored to your organization.\nWorkera: Accelerate your enterprise transformation by assessing your team’s skills, rapidly upskilling, and measuring their progress in cutting-edge technologies like GenAI.\nSpeechlab: Bridge Language Barriers through Generative Speech\nCredo AI is an AI governance platform that helps companies adopt, scale, and govern AI safely and effectively."
   },
   {
-    "objectID": "project-tips-resources.html#research-papers",
-    "href": "project-tips-resources.html#research-papers",
+    "objectID": "project-tips-resources.html#research-paper",
+    "href": "project-tips-resources.html#research-paper",
     "title": "Project tips + resources",
-    "section": "Research papers",
-    "text": "Research papers\nBrynjolfsson, E., Li, D., & Raymond, L. R. (2023). Generative AI at work (No. w31161). National Bureau of Economic Research."
+    "section": "Research paper",
+    "text": "Research paper\nBrynjolfsson, E., Li, D., & Raymond, L. R. (2023). Generative AI at work (No. w31161). National Bureau of Economic Research."
   },
   {
     "objectID": "programming-troubleshooting.html",
