@@ -14,7 +14,7 @@ title: "Project tips + resources"
 
 [Curated list of tools and projects using LangChain.](https://github.com/kyrolabs/awesome-langchain)
 
-## Business use cases
+## Gen AI business use cases
 
 [Gartner (2023a). Gartner Experts Answer the Top Generative AI Questions for Your Enterprise](https://www.gartner.com/en/topics/generative-ai)
 
@@ -28,6 +28,18 @@ title: "Project tips + resources"
 [WIRED (2023). How WIRED Will Use Generative AI Tools.](https://www.wired.com/about/generative-ai-policy/)
 
 
+## AI Newsletters
+
+Free newsletters of Data Science articles, news, tools, libraries, and cool projects:
+
+
+- [The Batch](https://www.deeplearning.ai/the-batch/)
+
+- [Data Machina](https://datamachina.com/)
+
+- [Data Science Weekly](https://www.datascienceweekly.org/)
+
+
 ## Gen AI companies
 
 [Workhelix](https://www.workhelix.com/) brings together cutting-edge research and comprehensive data to assess your company’s Generative AI opportunity. Our software creates an interactive, dynamic roadmap tailored to your organization.
@@ -39,7 +51,6 @@ title: "Project tips + resources"
 [Credo AI](https://www.credo.ai/product) is an AI governance platform that helps companies adopt, scale, and govern AI safely and effectively.
 
 
-## Research papers
+## Research paper
 
 [Brynjolfsson, E., Li, D., & Raymond, L. R. (2023). Generative AI at work (No. w31161). National Bureau of Economic Research.](https://www.nber.org/papers/w31161)
-
