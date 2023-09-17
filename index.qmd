@@ -1,8 +1,14 @@
 ---
 title: "LLM Applications"
-subtitle: "Course overview"
+subtitle: "Content overview"
 ---
 
-This page contains an outline of the topics, content, and assignments for the semester.
+This page contains an outline of the topics and content for the course.
 
-Note that this schedule will be updated as the semester progresses and the timeline of topics and assignments might be updated throughout the semester.
+:::{.callout-note}
+This schedule will be updated as the semester progresses.
+::
+
+|	Week	|	Date	|	Content	|	Material	|	
+|	---	|	---	|	---	|	---	|	
+|	1	|	25.09.	|	Project introduction	|	[📑 PDF](https://drive.google.com/file/d/1DlSgDb8G2jQ3Tlm69eUkhBA49SDVpCEr5K12UxpshlQ/view?usp=sharing)	|	
