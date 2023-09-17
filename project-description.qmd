@@ -77,7 +77,7 @@ If you're unsure where to find use cases, you can use the [Tips + Resources](pro
 
 **4. Documentation and Presentation (20 points)**
 
-9. **Project Documentation in GitHub (10 points)**
+9. **Project Documentation with [Design Science Research](https://kirenz.github.io/thesis-guide/docs/design-science-research.html#) and GitHub (10 points)**
     - **Exceptional (8-10):** Documentation is comprehensive, covering the use case, design decisions, implementation, and user instructions.
     - **Proficient (5-7):** Documentation covers most aspects of the project but may lack depth.
     - **Basic (3-4):** Documentation covers some aspects but lacks clarity or detail.
@@ -91,23 +91,4 @@ If you're unsure where to find use cases, you can use the [Tips + Resources](pro
 
 **Total Maximum Points:** 100
 
-
-## Rubric overview
-
-| Criteria & Sub-Criteria                                   | Exceptional      | Proficient       | Basic            | Needs Improvement |
-|-----------------------------------------------------------|------------------|------------------|------------------|------------------|
-| **Use Case Identification**                               |                  |                  |                  |                  |
-| 1. Relevance and Originality                              | 8-10 points      | 5-7 points       | 3-4 points       | 0-2 points       |
-| 2. Clear Definition and Scope                             | 8-10 points      | 5-7 points       | 3-4 points       | 0-2 points       |
-| **Application Development**                               |                  |                  |                  |                  |
-| 3. Code Quality and Organization                          | 8-10 points      | 5-7 points       | 3-4 points       | 0-2 points       |
-| 4. Algorithm Implementation and Efficiency                | 12-15 points     | 8-11 points      | 4-7 points       | 0-3 points       |
-| 5. Error Handling and Robustness                          | 8-10 points      | 5-7 points       | 3-4 points       | 0-2 points       |
-| 6. Integration of AI                                      | 4-5 points       | 3 points         | 1-2 points       | 0 points         |
-| **User Interface (UI)**                                   |                  |                  |                  |                  |
-| 7. Design and Aesthetics                                  | 8-10 points      | 5-7 points       | 3-4 points       | 0-2 points       |
-| 8. Usability and Interaction                              | 8-10 points      | 5-7 points       | 3-4 points       | 0-2 points       |
-| **Documentation and Presentation**                        |                  |                  |                  |                  |
-| 9. Project Documentation                                  | 8-10 points      | 5-7 points       | 3-4 points       | 0-2 points       |
-| 10. Presentation and Communication                         | 8-10 points      | 5-7 points       | 3-4 points       | 0-2 points       |
 
