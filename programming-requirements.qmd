@@ -2,12 +2,13 @@
 title: "Requirements"
 ---
 
-For this course you will need the following toolkit ⚒️:
-
-- **Python**: Anaconda, Anaconda Environments `gradio`, `langchain`, `kernel` and Visual Studio Code
-- **Environment**: HuggingFace API key; OpenAI API and an environment file with your APIs
-
 :::{.callout-important}
 ## Programming Toolkit
 Visit the "[Programming Toolkit-webpage](https://kirenz.github.io/lab-toolkit/)" to learn how to meet all requirements.
 :::
+
+For this course you will need the following toolkit ⚒️:
+
+- **Python**: Anaconda, Anaconda Environments `gradio`, `langchain`, `kernel` and Visual Studio Code
+
+- **Environment**: HuggingFace API key; OpenAI API and an environment file with your APIs
