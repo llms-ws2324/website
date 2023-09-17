@@ -16,8 +16,9 @@ title: "Project tips + resources"
 
 ## Business use cases
 
-[Gartner (2023). Gartner Experts Answer the Top Generative AI Questions for Your Enterprise](https://www.gartner.com/en/topics/generative-ai)
+[Gartner (2023a). Gartner Experts Answer the Top Generative AI Questions for Your Enterprise](https://www.gartner.com/en/topics/generative-ai)
 
+[Gartner (2023b) How Can Generative AI Be Used to Improve Customer Service and Support?](https://www.gartner.com/doc/reprints?id=1-2E78ZDFA&ct=230620&st=sb&ehash=c5175cf5840186517f8d96058802e1bde767c8f4f6b758168f9dd18202f731d6)
 
 [McKinsey (2023). The economic potential of generative AI: The next productivity frontier. White paper](https://www.mckinsey.com/capabilities/mckinsey-digital/our-insights/the-economic-potential-of-generative-ai-the-next-productivity-frontier#introduction)
 
