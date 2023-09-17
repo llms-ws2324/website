@@ -59,8 +59,6 @@ website:
             text: Support
           - href: index.qmd
             text: Schedule
-          - href: course-links.qmd
-            text: Useful links
       - section: "Programming"
         contents:
           - href: programming-requirements.qmd
