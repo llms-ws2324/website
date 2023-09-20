@@ -11,7 +11,7 @@ title: "Syllabus"
 | Lecture   |  Monday   | 11:45  - 13:15  |  S205  |
 
 
-![](/images/room.png)
+![](/images/room.png){width="60%"}
 
 Nobelstraße 10, 70569 Stuttgart, [Room S205](https://www.hdm-stuttgart.de/horst) (second floor)
 
