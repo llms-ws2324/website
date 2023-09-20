@@ -2,10 +2,6 @@
 title: "Syllabus"
 ---
 
-::: {.content-visible when-format="html"}
-[**Click here**](syllabus.pdf) **to download a PDF copy of the syllabus.**
-:::
-
 
 ## Course info
 
@@ -15,9 +11,13 @@ title: "Syllabus"
 | Lecture   |  Monday   | 11:45  - 13:15  |  S205  |
 
 
+![](/images/room.png)
+
+Nobelstraße 10, 70569 Stuttgart, [Room S205](https://www.hdm-stuttgart.de/horst) (second floor)
+
 ## Learning objectives
 
-The course Large Language Model applications focuses on exploring and realizing the potential of LLMs (e.g., GPT-4 from OpenAI) to automate various business tasks. In particular, we will investigate how LLMs can be used to automate routine tasks such as composing emails and creating reports. However, you can also work on applications related to customers (e.g. customer service chatbot).   
+The course Large Language Model applications focuses on exploring and realizing the potential of LLMs (e.g., GPT from OpenAI) to automate various business tasks. In particular, we will investigate how LLMs can be used to automate routine tasks such as composing emails and creating reports. However, you can also work on applications related to customers (e.g. customer service chatbot).   
 
 By the end of the semester, you will be able to use popular frameworks like Hugging Face, OpenAI Models, LangChain, Microsoft Kernel and Gradio to build LLM applications
 
@@ -49,12 +49,30 @@ You are expected to make use of the provided GitHub repository as the central co
 
 ## Assessment
 
+Assessment for the course is comprised of two components:
+
+- Acquisition of a skill badge (ungraded)
+- Project
+
+
+### Skill badge
+
+Earn a Google Cloud skill badge by completing the [Introduction to Generative AI, Introduction to Large Language Models and Introduction to Responsible AI](https://www.cloudskillsboost.google/course_templates/556) courses. 
+
+By passing the final quiz, you'll demonstrate your understanding of foundational concepts in generative AI.
+
+A skill badge is a digital badge issued by Google Cloud in recognition of your knowledge of Google Cloud products and services. 
+
+### Project
+
 The purpose of the project is to build and present a LLM application. The project will be completed in teams.
 
 :::{.callout-note}
 Take a look at the [project description](project-description.qmd) for a more detailed explanation of the grading criterias
 :::
 
+
+### Grade
 
 The final course grade will be calculated as follows:
 
