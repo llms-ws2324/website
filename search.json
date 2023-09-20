@@ -4,21 +4,21 @@
     "href": "course-syllabus.html",
     "title": "Syllabus",
     "section": "",
-    "text": "Click here to download a PDF copy of the syllabus."
+    "text": "Day\nTime\nLocation\n\n\n\n\nKick-off\n25.09.-27.09\n09:00 - 17:00\nS205\n\n\nLecture\nMonday\n11:45 - 13:15\nS205\n\n\n\n\nNobelstraße 10, 70569 Stuttgart, Room S205 (second floor)"
   },
   {
     "objectID": "course-syllabus.html#course-info",
     "href": "course-syllabus.html#course-info",
     "title": "Syllabus",
-    "section": "Course info",
-    "text": "Course info\n\n\n\n\nDay\nTime\nLocation\n\n\n\n\nKick-off\n25.09.-27.09\n09:00 - 17:00\nS205\n\n\nLecture\nMonday\n11:45 - 13:15\nS205"
+    "section": "",
+    "text": "Day\nTime\nLocation\n\n\n\n\nKick-off\n25.09.-27.09\n09:00 - 17:00\nS205\n\n\nLecture\nMonday\n11:45 - 13:15\nS205\n\n\n\n\nNobelstraße 10, 70569 Stuttgart, Room S205 (second floor)"
   },
   {
     "objectID": "course-syllabus.html#learning-objectives",
     "href": "course-syllabus.html#learning-objectives",
     "title": "Syllabus",
     "section": "Learning objectives",
-    "text": "Learning objectives\nThe course Large Language Model applications focuses on exploring and realizing the potential of LLMs (e.g., GPT-4 from OpenAI) to automate various business tasks. In particular, we will investigate how LLMs can be used to automate routine tasks such as composing emails and creating reports. However, you can also work on applications related to customers (e.g. customer service chatbot).\nBy the end of the semester, you will be able to use popular frameworks like Hugging Face, OpenAI Models, LangChain, Microsoft Kernel and Gradio to build LLM applications"
+    "text": "Learning objectives\nThe course Large Language Model applications focuses on exploring and realizing the potential of LLMs (e.g., GPT from OpenAI) to automate various business tasks. In particular, we will investigate how LLMs can be used to automate routine tasks such as composing emails and creating reports. However, you can also work on applications related to customers (e.g. customer service chatbot).\nBy the end of the semester, you will be able to use popular frameworks like Hugging Face, OpenAI Models, LangChain, Microsoft Kernel and Gradio to build LLM applications"
   },
   {
     "objectID": "course-syllabus.html#where-to-get-help",
@@ -46,7 +46,7 @@
     "href": "course-syllabus.html#assessment",
     "title": "Syllabus",
     "section": "Assessment",
-    "text": "Assessment\nThe purpose of the project is to build and present a LLM application. The project will be completed in teams.\n\n\n\n\n\n\nNote\n\n\n\nTake a look at the project description for a more detailed explanation of the grading criterias\n\n\nThe final course grade will be calculated as follows:\n\n\n\n\n\n\n\n\n\n\nCriteria & Sub-Criteria\nExceptional\nProficient\nBasic\nNeeds Improvement\n\n\n\n\nUse Case Identification\n\n\n\n\n\n\n1. Relevance and Originality\n8-10 points\n5-7 points\n3-4 points\n0-2 points\n\n\n2. Clear Definition and Scope\n8-10 points\n5-7 points\n3-4 points\n0-2 points\n\n\nApplication Development\n\n\n\n\n\n\n3. Code Quality and Organization\n8-10 points\n5-7 points\n3-4 points\n0-2 points\n\n\n4. Algorithm Implementation and Efficiency\n12-15 points\n8-11 points\n4-7 points\n0-3 points\n\n\n5. Error Handling and Robustness\n8-10 points\n5-7 points\n3-4 points\n0-2 points\n\n\n6. Integration of AI\n4-5 points\n3 points\n1-2 points\n0 points\n\n\nUser Interface (UI)\n\n\n\n\n\n\n7. Design and Aesthetics\n8-10 points\n5-7 points\n3-4 points\n0-2 points\n\n\n8. Usability and Interaction\n8-10 points\n5-7 points\n3-4 points\n0-2 points\n\n\nDocumentation and Presentation\n\n\n\n\n\n\n9. Project Documentation\n8-10 points\n5-7 points\n3-4 points\n0-2 points\n\n\n10. Presentation and Communication\n8-10 points\n5-7 points\n3-4 points\n0-2 points\n\n\n\nThe final grade will be determined based on the following thresholds:\n\n\n\nGrade\nFinal Course Grade\n\n\n\n\n1.0\n96 - 100\n\n\n1.3\n91 - 95\n\n\n1.7\n85 - 90\n\n\n2.0\n80 - 84\n\n\n2.3\n75 - 79\n\n\n2.7\n70 - 74\n\n\n3.0\n65 - 69\n\n\n3.3\n60 - 64\n\n\n3.7\n55 - 59\n\n\n4.0\n50 - 54\n\n\n4.7\n15 - 49\n\n\n5.0\n0 - 14"
+    "text": "Assessment\nAssessment for the course is comprised of two components:\n\nAcquisition of a skill badge (ungraded)\nProject\n\n\nSkill badge\nEarn a Google Cloud skill badge by completing the Introduction to Generative AI, Introduction to Large Language Models and Introduction to Responsible AI courses.\nBy passing the final quiz, you’ll demonstrate your understanding of foundational concepts in generative AI.\nA skill badge is a digital badge issued by Google Cloud in recognition of your knowledge of Google Cloud products and services.\n\n\nProject\nThe purpose of the project is to build and present a LLM application. The project will be completed in teams.\n\n\n\n\n\n\nNote\n\n\n\nTake a look at the project description for a more detailed explanation of the grading criterias\n\n\n\n\nGrade\nThe final course grade will be calculated as follows:\n\n\n\n\n\n\n\n\n\n\nCriteria & Sub-Criteria\nExceptional\nProficient\nBasic\nNeeds Improvement\n\n\n\n\nUse Case Identification\n\n\n\n\n\n\n1. Relevance and Originality\n8-10 points\n5-7 points\n3-4 points\n0-2 points\n\n\n2. Clear Definition and Scope\n8-10 points\n5-7 points\n3-4 points\n0-2 points\n\n\nApplication Development\n\n\n\n\n\n\n3. Code Quality and Organization\n8-10 points\n5-7 points\n3-4 points\n0-2 points\n\n\n4. Algorithm Implementation and Efficiency\n12-15 points\n8-11 points\n4-7 points\n0-3 points\n\n\n5. Error Handling and Robustness\n8-10 points\n5-7 points\n3-4 points\n0-2 points\n\n\n6. Integration of AI\n4-5 points\n3 points\n1-2 points\n0 points\n\n\nUser Interface (UI)\n\n\n\n\n\n\n7. Design and Aesthetics\n8-10 points\n5-7 points\n3-4 points\n0-2 points\n\n\n8. Usability and Interaction\n8-10 points\n5-7 points\n3-4 points\n0-2 points\n\n\nDocumentation and Presentation\n\n\n\n\n\n\n9. Project Documentation\n8-10 points\n5-7 points\n3-4 points\n0-2 points\n\n\n10. Presentation and Communication\n8-10 points\n5-7 points\n3-4 points\n0-2 points\n\n\n\nThe final grade will be determined based on the following thresholds:\n\n\n\nGrade\nFinal Course Grade\n\n\n\n\n1.0\n96 - 100\n\n\n1.3\n91 - 95\n\n\n1.7\n85 - 90\n\n\n2.0\n80 - 84\n\n\n2.3\n75 - 79\n\n\n2.7\n70 - 74\n\n\n3.0\n65 - 69\n\n\n3.3\n60 - 64\n\n\n3.7\n55 - 59\n\n\n4.0\n50 - 54\n\n\n4.7\n15 - 49\n\n\n5.0\n0 - 14"
   },
   {
     "objectID": "course-syllabus.html#course-policies",
@@ -130,7 +130,7 @@
     "href": "index.html",
     "title": "LLM Applications",
     "section": "",
-    "text": "This page contains an outline of the topics and content for the course.\n:::{.callout-note} This schedule will be updated as the semester progresses. ::\n\n\n\nWeek\nDate\nContent\nMaterial\n\n\n\n\n1\n25.09.\nProject introduction\n📑 PDF"
+    "text": "This page contains an outline of the topics and content for the course.\n\n\n\n\n\n\nNote\n\n\n\nThis schedule will be updated as the semester progresses.\n\n\n\n\n\nWeek\nDate\nContent\nMaterial\n\n\n\n\n1\n25.09.\nProject introduction\n📑 PDF"
   },
   {
     "objectID": "programming-requirements.html",
