@@ -9,6 +9,7 @@ This page contains an outline of the topics and content for the course.
 This schedule will be updated as the semester progresses.
 :::
 
+
 Nr	|	Content	|	Material	|	
 ---	|	---	|	---	|	
 1	|	Project introduction	|		|	
