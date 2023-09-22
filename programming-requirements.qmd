@@ -9,6 +9,6 @@ Visit the "[Programming Toolkit-webpage](https://kirenz.github.io/lab-toolkit/)"
 
 For this course you will need the following toolkit ⚒️:
 
-- **Python**: Anaconda, Anaconda Environments `gradio`, `langchain`, `kernel` and Visual Studio Code
+- **Python**: Anaconda / Anaconda Environments `gradio`, `langchain`, `kernel` / Visual Studio Code
 
-- **Environment**: HuggingFace API key; OpenAI API and an environment file with your APIs
+- **Environment**: GitHub account / HuggingFace API key / OpenAI API / environment file with your APIs
