@@ -137,7 +137,7 @@
     "href": "programming-requirements.html",
     "title": "Requirements",
     "section": "",
-    "text": "Programming Toolkit\n\n\n\nVisit the “Programming Toolkit-webpage” to learn how to meet all requirements.\n\n\nFor this course you will need the following toolkit ⚒️:\n\nPython: Anaconda, Anaconda Environments gradio, langchain, kernel and Visual Studio Code\nEnvironment: HuggingFace API key; OpenAI API and an environment file with your APIs"
+    "text": "Programming Toolkit\n\n\n\nVisit the “Programming Toolkit-webpage” to learn how to meet all requirements.\n\n\nFor this course you will need the following toolkit ⚒️:\n\nPython: Anaconda / Anaconda Environments gradio, langchain, kernel / Visual Studio Code\nEnvironment: GitHub account / HuggingFace API key / OpenAI API / environment file with your APIs"
   },
   {
     "objectID": "course-overview.html",
