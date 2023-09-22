@@ -10,6 +10,22 @@ This schedule will be updated as the semester progresses.
 :::
 
 
-|	Week	|	Date	|	Content	|	Material	|	
-|	---	|	---	|	---	|	---	|	
-|	1	|	25.09.	|	Project introduction	|	[📑 PDF](https://docs.google.com/presentation/d/1DlSgDb8G2jQ3Tlm69eUkhBA49SDVpCEr5K12UxpshlQ/export/pdf)	|	
+Nr	|	Content	|	Material	|
+---	|	---	|	---	|
+1	|	Project introduction	|	[📑 PDF]([📑](https://docs.google.com/presentation/d/1DlSgDb8G2jQ3Tlm69eUkhBA49SDVpCEr5K12UxpshlQ/export/pdf))	|
+2	|	Generative AI	|		|
+3	|	Large Language Models	|		|
+4	|	Programming toolkit lab	|		|
+5	|	Data Science Lifecycle Overview	|		|
+6	|	Use case identification	|		|
+7	|	Value Creation Optimization 	|		|
+8	|	Frame the Problem	|		|
+9	|	Identify Variables	|		|
+10	|	Define Metrics	|		|
+11	|	Prompt Engineering	|		|
+12	|	Building a Chat System	|		|
+13	|	HuggingFace 	|		|
+14	|	LangChain Basics	|		|
+15	|	LangChain RAG	|		|
+16	|	Build Apps with Gradio	|		|
+17		Microsoft Semantic Kernel			|
