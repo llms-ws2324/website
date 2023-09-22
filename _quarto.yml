@@ -63,8 +63,8 @@ website:
         contents:
           - href: programming-requirements.qmd
             text: Requirements
-          - href: programming-troubleshooting.qmd
-            text: Troubleshooting
+#          - href: programming-troubleshooting.qmd
+#            text: Troubleshooting
       - section: "Project"
         contents:
           - href: project-description.qmd
