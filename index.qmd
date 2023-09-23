@@ -17,8 +17,8 @@ Nr	|	Content	|	Material	|
 3	|	Large Language Models	|		|	
 4	|	Programming toolkit lab	|		|	
 5	|	Data Science Lifecycle Overview	|		|	
-6	|	  Use case identification	|		|	
-7	|	  Value Creation Optimization 	|		|	
+6	|	&nbsp Use case identification	|		|	
+7	|	&nbsp  Value Creation Optimization 	|		|	
 8	|	  Frame the Problem	|		|	
 9	|	  (Identify Variables)	|		|	
 10	|	  Define Metrics	|		|	
