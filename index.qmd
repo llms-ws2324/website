@@ -9,23 +9,23 @@ This page contains an outline of the topics and content for the course.
 This schedule will be updated as the semester progresses.
 :::
 
-Nr	|	Content	|	Material	|	
----	|	---	|	---	|	
-1	|	Project introduction	|		|	
-2	|	Generative AI	|		|	
-3	|	Large Language Models	|		|	
-4	|	Programming toolkit lab	|		|	
-5	|	Data Science Lifecycle Overview	|		|	
-6	|	    Use case identification	|		|	
-7	|	    Value Creation Optimization 	|		|	
-8	|	     Frame the Problem	|		|	
-9	|	    (Identify Variables)	|		|	
-10	|	  Define Metrics	|		|	
-11	|	Prompt Engineering	|		|	
-12	|	Building a Chat System	|		|	
-13	|	HuggingFace 	|		|	
-14	|	LangChain Basics	|		|	
-15	|	LangChain RAG	|		|	
-16	|	Build Apps with Gradio	|		|	
-17	|	Build Apps with Streamlit	|		|	
-18	|	Microsoft Semantic Kernel	|		|	
+Nr	|	Content	|	Material	|
+---	|	---	|	---	|
+1	|	Project introduction	|		|
+2	|	Generative AI	|		|
+3	|	Large Language Models	|		|
+4	|	Programming toolkit lab	|		|
+5	|	Data Science Lifecycle Overview	|		|
+6	|	 -  Use case identification	|		|
+7	|	 -  Value Creation Optimization 	|		|
+8	|	 -  Frame the Problem	|		|
+9	|	 -  (Identify Variables)	|		|
+10	|	 -  Define Metrics	|		|
+11	|	Prompt Engineering	|		|
+12	|	Building a Chat System	|		|
+13	|	HuggingFace 	|		|
+14	|	LangChain Basics	|		|
+15	|	LangChain RAG	|		|
+16	|	Build Apps with Gradio	|		|
+17	|	Build Apps with Streamlit	|		|
+18	|	Microsoft Semantic Kernel	|		|
