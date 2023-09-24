@@ -14,7 +14,7 @@ title: "Project tips + resources"
 
 [Curated list of tools and projects using LangChain.](https://github.com/kyrolabs/awesome-langchain)
 
-## Gen AI business use cases
+## About Gen AI
 
 [Gartner (2023a). Gartner Experts Answer the Top Generative AI Questions for Your Enterprise](https://www.gartner.com/en/topics/generative-ai)
 
@@ -23,6 +23,8 @@ title: "Project tips + resources"
 [McKinsey (2023). The economic potential of generative AI: The next productivity frontier. White paper](https://www.mckinsey.com/capabilities/mckinsey-digital/our-insights/the-economic-potential-of-generative-ai-the-next-productivity-frontier#introduction)
 
 [Microsoft (2023). Responsible AI and Semantic Kernel.](https://learn.microsoft.com/en-us/semantic-kernel/when-to-use-ai/responsible-ai)
+
+[Sequoia (2023). Generative AI’s Act Two.](https://www.sequoiacap.com/article/generative-ai-act-two/)
 
 
 [WIRED (2023). How WIRED Will Use Generative AI Tools.](https://www.wired.com/about/generative-ai-policy/)
@@ -42,13 +44,21 @@ Free newsletters of Data Science articles, news, tools, libraries, and cool proj
 
 ## Gen AI companies
 
-[Workhelix](https://www.workhelix.com/) brings together cutting-edge research and comprehensive data to assess your company’s Generative AI opportunity. Our software creates an interactive, dynamic roadmap tailored to your organization.
 
-[Workera](https://workera.ai/): Accelerate your enterprise transformation by assessing your team's skills, rapidly upskilling, and measuring their progress in cutting-edge technologies like GenAI.
+[Character AI](https://beta.character.ai/): Character.AI lets you create Characters and talk to them. 
+
+[Credo AI](https://www.credo.ai/product) is an AI governance platform that helps companies adopt, scale, and govern AI safely and effectively.
+
+
+[Glean](https://glean.com/): AI-powered workplace search. Across all your company's apps.
+
 
 [Speechlab](https://www.speechlab.ai/): Bridge Language Barriers through Generative Speech
 
-[Credo AI](https://www.credo.ai/product) is an AI governance platform that helps companies adopt, scale, and govern AI safely and effectively.
+[Workera](https://workera.ai/): Accelerate your enterprise transformation by assessing your team's skills, rapidly upskilling, and measuring their progress in cutting-edge technologies like GenAI.
+
+
+[Workhelix](https://www.workhelix.com/) brings together cutting-edge research and comprehensive data to assess your company’s Generative AI opportunity. Our software creates an interactive, dynamic roadmap tailored to your organization.
 
 
 ## Research paper
