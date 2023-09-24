@@ -91,11 +91,11 @@
     "text": "OpenAI (2023a). Explore what’s possible with some example applications.\nOpenAI (2023b). Creating an automated meeting minutes generator with Whisper and GPT-4.\nLangChain (2023). Reference implementations of several LangChain agents as Streamlit apps\nCurated list of tools and projects using LangChain."
   },
   {
-    "objectID": "project-tips-resources.html#gen-ai-business-use-cases",
-    "href": "project-tips-resources.html#gen-ai-business-use-cases",
+    "objectID": "project-tips-resources.html#about-gen-ai",
+    "href": "project-tips-resources.html#about-gen-ai",
     "title": "Project tips + resources",
-    "section": "Gen AI business use cases",
-    "text": "Gen AI business use cases\nGartner (2023a). Gartner Experts Answer the Top Generative AI Questions for Your Enterprise\nGartner (2023b) How Can Generative AI Be Used to Improve Customer Service and Support?\nMcKinsey (2023). The economic potential of generative AI: The next productivity frontier. White paper\nMicrosoft (2023). Responsible AI and Semantic Kernel.\nWIRED (2023). How WIRED Will Use Generative AI Tools."
+    "section": "About Gen AI",
+    "text": "About Gen AI\nGartner (2023a). Gartner Experts Answer the Top Generative AI Questions for Your Enterprise\nGartner (2023b) How Can Generative AI Be Used to Improve Customer Service and Support?\nMcKinsey (2023). The economic potential of generative AI: The next productivity frontier. White paper\nMicrosoft (2023). Responsible AI and Semantic Kernel.\nSequoia (2023). Generative AI’s Act Two.\nWIRED (2023). How WIRED Will Use Generative AI Tools."
   },
   {
     "objectID": "project-tips-resources.html#ai-newsletters",
@@ -109,7 +109,7 @@
     "href": "project-tips-resources.html#gen-ai-companies",
     "title": "Project tips + resources",
     "section": "Gen AI companies",
-    "text": "Gen AI companies\nWorkhelix brings together cutting-edge research and comprehensive data to assess your company’s Generative AI opportunity. Our software creates an interactive, dynamic roadmap tailored to your organization.\nWorkera: Accelerate your enterprise transformation by assessing your team’s skills, rapidly upskilling, and measuring their progress in cutting-edge technologies like GenAI.\nSpeechlab: Bridge Language Barriers through Generative Speech\nCredo AI is an AI governance platform that helps companies adopt, scale, and govern AI safely and effectively."
+    "text": "Gen AI companies\nCharacter AI: Character.AI lets you create Characters and talk to them.\nCredo AI is an AI governance platform that helps companies adopt, scale, and govern AI safely and effectively.\nGlean: AI-powered workplace search. Across all your company’s apps.\nSpeechlab: Bridge Language Barriers through Generative Speech\nWorkera: Accelerate your enterprise transformation by assessing your team’s skills, rapidly upskilling, and measuring their progress in cutting-edge technologies like GenAI.\nWorkhelix brings together cutting-edge research and comprehensive data to assess your company’s Generative AI opportunity. Our software creates an interactive, dynamic roadmap tailored to your organization."
   },
   {
     "objectID": "project-tips-resources.html#research-paper",
