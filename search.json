@@ -130,7 +130,7 @@
     "href": "index.html",
     "title": "LLM Applications",
     "section": "",
-    "text": "This page contains an outline of the topics and content for the course.\n\n\n\n\n\n\nNote\n\n\n\nThis schedule will be updated as the semester progresses.\n\n\n\n\n\nNr\nContent\nMaterial\n\n\n\n\n1\nProject introduction\n📑 PDF\n\n\n2\nGenerative AI\n🖥️ Slides\n\n\n3\nLarge Language Models\n🖥️ Slides\n\n\n4\nProgramming toolkit lab\n💻 Lab\n\n\n5\nData Science Lifecycle Overview\n\n\n\n6\n- Use case identification\n\n\n\n7\n- Value Creation Optimization\n\n\n\n8\n- Frame the Problem\n\n\n\n9\n- (Identify Variables)\n\n\n\n10\n- Define Metrics\n\n\n\n11\nPrompt Engineering\n💻 Lab\n\n\n12\nBuilding a Chat System\n\n\n\n13\nHuggingFace\n\n\n\n14\nLangChain Basics\n\n\n\n15\nLangChain RAG\n\n\n\n16\nBuild Apps with Gradio\n\n\n\n17\nBuild Apps with Streamlit\n\n\n\n18\nMicrosoft Semantic Kernel"
+    "text": "This page contains an outline of the topics and content for the course.\n\n\n\n\n\n\nNote\n\n\n\nThis schedule will be updated as the semester progresses.\n\n\n\n\n\nNr\nContent\nMaterial\n\n\n\n\n1\nProject introduction\n📑 PDF\n\n\n2\nGenerative AI\n🖥️ Slides\n\n\n3\nLarge Language Models\n🖥️ Slides\n\n\n4\nProgramming toolkit lab\n💻 Lab\n\n\n5\nData Science Lifecycle Overview\n📑 PDF\n\n\n6\n- Use case identification\n📑 PDF\n\n\n7\n- Value Creation Optimization\n📑 PDF\n\n\n8\n- Frame the Problem\n📑 PDF\n\n\n9\n- (Identify Variables)\n📑 PDF\n\n\n10\n- Define Metrics\n📑 PDF\n\n\n11\nPrompt Engineering\n💻 Lab"
   },
   {
     "objectID": "programming-requirements.html",
