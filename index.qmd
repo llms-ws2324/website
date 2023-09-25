@@ -14,14 +14,14 @@ Nr	|	Content	|	Material	|
 1	|	Project introduction	|	[📑 PDF]([📑](https://docs.google.com/presentation/d/1DlSgDb8G2jQ3Tlm69eUkhBA49SDVpCEr5K12UxpshlQ/export/pdf))	|	
 2	|	Generative AI	|	[🖥️ Slides](https://kirenz.github.io/slides/genai/genai)	|	
 3	|	Large Language Models	|	[🖥️ Slides](https://kirenz.github.io/slides/llm/llm)	|	
-4	|	Programming toolkit lab	|		|	
+4	|	Programming toolkit lab	|	[💻 Lab](https://kirenz.github.io/lab-toolkit)	|	
 5	|	Data Science Lifecycle Overview	|		|	
 6	|	 -  Use case identification	|		|	
 7	|	 -  Value Creation Optimization 	|		|	
 8	|	 -  Frame the Problem	|		|	
 9	|	 -  (Identify Variables)	|		|	
 10	|	 -  Define Metrics	|		|	
-11	|	Prompt Engineering	|		|	
+11	|	Prompt Engineering	|	[💻 Lab](https://kirenz.github.io/lab-prompt)	|	
 12	|	Building a Chat System	|		|	
 13	|	HuggingFace 	|		|	
 14	|	LangChain Basics	|		|	
