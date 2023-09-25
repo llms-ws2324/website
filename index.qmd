@@ -12,8 +12,8 @@ This schedule will be updated as the semester progresses.
 Nr	|	Content	|	Material	|	
 ---	|	---	|	---	|	
 1	|	Project introduction	|	[📑 PDF]([📑](https://docs.google.com/presentation/d/1DlSgDb8G2jQ3Tlm69eUkhBA49SDVpCEr5K12UxpshlQ/export/pdf))	|	
-2	|	Generative AI	|		|	
-3	|	Large Language Models	|		|	
+2	|	Generative AI	|	[🖥️ Slides](https://kirenz.github.io/slides/genai/genai)	|	
+3	|	Large Language Models	|	[🖥️ Slides](https://kirenz.github.io/slides/llm/llm)	|	
 4	|	Programming toolkit lab	|		|	
 5	|	Data Science Lifecycle Overview	|		|	
 6	|	 -  Use case identification	|		|	
