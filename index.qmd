@@ -24,8 +24,8 @@ Nr	|	Content	|	Material	|
 11	|	Prompt Engineering	|	[💻 Lab](https://kirenz.github.io/lab-prompt)	|	
 12	|	Building a Chat System	|		|	
 13	|	HuggingFace 	|		|	
-14	|	LangChain Basics	|		|	
-15	|	LangChain RAG	|		|	
+14	|	LangChain Basics	|	[💻 Lab](https://kirenz.github.io/lab-langchain-basics)	|	
+15	|	LangChain RAG	|	[💻 Lab](https://kirenz.github.io/lab-langchain-rag)	|	
 16	|	Build Apps with Gradio	|		|	
 17	|	Build Apps with Streamlit	|		|	
 18	|	Microsoft Semantic Kernel	|	[💻 Lab](https://kirenz.github.io/lab-semantic-kernel)	|	
