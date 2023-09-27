@@ -22,10 +22,10 @@ Nr	|	Content	|	Material	|
 9	|	 -  (Identify Variables)	|	[📑](https://docs.google.com/presentation/d/1VqXuDX_3VFNOGMw3y3uQmvFr2m7b6BlW3if_icQSstM/export/pdf)	|	
 10	|	 -  Define Metrics	|	[📑](https://docs.google.com/presentation/d/1vlVqqU4Frt8y_GaCs4qVx7EVPyNravGhpgkV6tGeYmY/export/pdf)	|	
 11	|	Prompt Engineering	|	[💻 Lab](https://kirenz.github.io/lab-prompt)	|	
-12	|	Building a Chat System	|		|	
-13	|	HuggingFace 	|		|	
+12	|	Building a Chat System	|	[💻 Lab](https://kirenz.github.io/lab-chat-system)	|	
+13	|	HuggingFace 	|	[💻 Lab](https://kirenz.github.io/lab-huggingface)	|	
 14	|	LangChain Basics	|	[💻 Lab](https://kirenz.github.io/lab-langchain-basics)	|	
 15	|	LangChain RAG	|	[💻 Lab](https://kirenz.github.io/lab-langchain-rag)	|	
-16	|	Build Apps with Gradio	|		|	
-17	|	Build Apps with Streamlit	|		|	
+16	|	Build Apps with Gradio	|	[💻 Lab](https://kirenz.github.io/lab-llm-gradio)	|	
+17	|	Build Apps with Streamlit	|	[💻 Lab](https://github.com/kirenz/streamlit-app)	|	
 18	|	Microsoft Semantic Kernel	|	[💻 Lab](https://kirenz.github.io/lab-semantic-kernel)	|	
