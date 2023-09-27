@@ -1,75 +1,5 @@
 [
   {
-    "objectID": "course-overview.html",
-    "href": "course-overview.html",
-    "title": "Course overview",
-    "section": "",
-    "text": "The course Large Language Model applications focuses on exploring and realizing the potential of LLMs (e.g., GPT-4 from OpenAI) to automate various business tasks. In particular, we will investigate how LLMs can be used to automate routine tasks such as composing emails and creating reports.\n\n\n\n\n\n\nGoal\n\n\n\nThe goal is to increase productivity and efficiency in companies while ensuring the quality and consistency of the content generated.\n\n\nThe project is offered in collaboration with Zoi, a company specializing in the development and consulting of AI-based technologies and applications in cloud environments."
-  },
-  {
-    "objectID": "index.html",
-    "href": "index.html",
-    "title": "LLM Applications",
-    "section": "",
-    "text": "This page contains an outline of the topics and content for the course.\n\n\n\n\n\n\nNote\n\n\n\nThis schedule will be updated as the semester progresses.\n\n\n\n\n\nNr\nContent\nMaterial\n\n\n\n\n1\nProject introduction\n📑\n\n\n2\nGenerative AI\n🖥️ Slides\n\n\n3\nLarge Language Models\n🖥️ Slides\n\n\n4\nProgramming toolkit lab\n💻 Lab\n\n\n5\nData Science Lifecycle Overview\n📑\n\n\n6\n- Use case identification\n📑\n\n\n7\n- Value Creation Optimization\n📑\n\n\n8\n- Frame the Problem\n📑\n\n\n9\n- (Identify Variables)\n📑\n\n\n10\n- Define Metrics\n📑\n\n\n11\nPrompt Engineering\n💻 Lab\n\n\n12\nBuilding a Chat System\n\n\n\n13\nHuggingFace\n\n\n\n14\nLangChain Basics\n\n\n\n15\nLangChain RAG\n\n\n\n16\nBuild Apps with Gradio\n\n\n\n17\nBuild Apps with Streamlit\n\n\n\n18\nMicrosoft Semantic Kernel\n💻 Lab"
-  },
-  {
-    "objectID": "programming-troubleshooting.html",
-    "href": "programming-troubleshooting.html",
-    "title": "Programming troubleshooting",
-    "section": "",
-    "text": "tbd"
-  },
-  {
-    "objectID": "project-tips-resources.html",
-    "href": "project-tips-resources.html",
-    "title": "Project tips + resources",
-    "section": "",
-    "text": "OpenAI (2023a). Explore what’s possible with some example applications.\nOpenAI (2023b). Creating an automated meeting minutes generator with Whisper and GPT-4.\nLangChain (2023). Reference implementations of several LangChain agents as Streamlit apps\nCurated list of tools and projects using LangChain."
-  },
-  {
-    "objectID": "project-tips-resources.html#gen-ai-code-examples",
-    "href": "project-tips-resources.html#gen-ai-code-examples",
-    "title": "Project tips + resources",
-    "section": "",
-    "text": "OpenAI (2023a). Explore what’s possible with some example applications.\nOpenAI (2023b). Creating an automated meeting minutes generator with Whisper and GPT-4.\nLangChain (2023). Reference implementations of several LangChain agents as Streamlit apps\nCurated list of tools and projects using LangChain."
-  },
-  {
-    "objectID": "project-tips-resources.html#about-gen-ai",
-    "href": "project-tips-resources.html#about-gen-ai",
-    "title": "Project tips + resources",
-    "section": "About Gen AI",
-    "text": "About Gen AI\nGartner (2023a). Gartner Experts Answer the Top Generative AI Questions for Your Enterprise\nGartner (2023b) How Can Generative AI Be Used to Improve Customer Service and Support?\nMcKinsey (2023). The economic potential of generative AI: The next productivity frontier. White paper\nMicrosoft (2023). Responsible AI and Semantic Kernel.\nSequoia (2023). Generative AI’s Act Two.\nWIRED (2023). How WIRED Will Use Generative AI Tools."
-  },
-  {
-    "objectID": "project-tips-resources.html#ai-newsletters",
-    "href": "project-tips-resources.html#ai-newsletters",
-    "title": "Project tips + resources",
-    "section": "AI Newsletters",
-    "text": "AI Newsletters\nFree newsletters of Data Science articles, news, tools, libraries, and cool projects:\n\nThe Batch\nData Machina\nData Science Weekly"
-  },
-  {
-    "objectID": "project-tips-resources.html#gen-ai-companies",
-    "href": "project-tips-resources.html#gen-ai-companies",
-    "title": "Project tips + resources",
-    "section": "Gen AI companies",
-    "text": "Gen AI companies\nCharacter AI: Character.AI lets you create Characters and talk to them.\nCredo AI is an AI governance platform that helps companies adopt, scale, and govern AI safely and effectively.\nGlean: AI-powered workplace search. Across all your company’s apps.\nSpeechlab: Bridge Language Barriers through Generative Speech\nWorkera: Accelerate your enterprise transformation by assessing your team’s skills, rapidly upskilling, and measuring their progress in cutting-edge technologies like GenAI.\nWorkhelix brings together cutting-edge research and comprehensive data to assess your company’s Generative AI opportunity. Our software creates an interactive, dynamic roadmap tailored to your organization."
-  },
-  {
-    "objectID": "project-tips-resources.html#research-paper",
-    "href": "project-tips-resources.html#research-paper",
-    "title": "Project tips + resources",
-    "section": "Research paper",
-    "text": "Research paper\nBrynjolfsson, E., Li, D., & Raymond, L. R. (2023). Generative AI at work (No. w31161). National Bureau of Economic Research."
-  },
-  {
-    "objectID": "programming-requirements.html",
-    "href": "programming-requirements.html",
-    "title": "Requirements",
-    "section": "",
-    "text": "Programming Toolkit\n\n\n\nVisit the “Programming Toolkit-webpage” to learn how to meet all requirements.\n\n\nFor this course you will need the following toolkit ⚒️:\n\nPython: Anaconda / Anaconda Environments gradio, langchain, kernel / Visual Studio Code\nEnvironment: GitHub account / HuggingFace API key / OpenAI API / environment file with your APIs"
-  },
-  {
     "objectID": "course-syllabus.html",
     "href": "course-syllabus.html",
     "title": "Syllabus",
@@ -126,6 +56,125 @@
     "text": "Course policies\n\nAcademic integrity\nTL;DR: Don’t cheat!\nAll students must adhere to the academic integrity standard. Students affirm their commitment to uphold the values by signing a pledge that states:\n\nI will not lie, cheat, or steal in my academic endeavors;\nI will conduct myself honorably in all my endeavors;\nI will act if the standard is compromised\n\nRegardless of the course delivery format, it is your responsibility to understand and follow HdM policies regarding academic integrity, including doing one’s own work, following proper citation of sources, and adhering to guidance around group work projects."
   },
   {
+    "objectID": "code/notebook.html",
+    "href": "code/notebook.html",
+    "title": "Notebook",
+    "section": "",
+    "text": "Load Python libaries and API keys.\n\nimport os\nimport openai\nimport pandas as pd\nimport altair as alt\nfrom dotenv import load_dotenv, find_dotenv\n\n\n_ = load_dotenv(find_dotenv()) # read local .env file\nopenai.api_key  = os.environ['OPENAI_API_KEY']"
+  },
+  {
+    "objectID": "code/notebook.html#setup",
+    "href": "code/notebook.html#setup",
+    "title": "Notebook",
+    "section": "",
+    "text": "Load Python libaries and API keys.\n\nimport os\nimport openai\nimport pandas as pd\nimport altair as alt\nfrom dotenv import load_dotenv, find_dotenv\n\n\n_ = load_dotenv(find_dotenv()) # read local .env file\nopenai.api_key  = os.environ['OPENAI_API_KEY']"
+  },
+  {
+    "objectID": "code/notebook.html#data",
+    "href": "code/notebook.html#data",
+    "title": "Notebook",
+    "section": "Data",
+    "text": "Data"
+  },
+  {
+    "objectID": "project-tips-resources.html",
+    "href": "project-tips-resources.html",
+    "title": "Project tips + resources",
+    "section": "",
+    "text": "OpenAI (2023a). Explore what’s possible with some example applications.\nOpenAI (2023b). Creating an automated meeting minutes generator with Whisper and GPT-4.\nLangChain (2023). Reference implementations of several LangChain agents as Streamlit apps\nCurated list of tools and projects using LangChain."
+  },
+  {
+    "objectID": "project-tips-resources.html#gen-ai-code-examples",
+    "href": "project-tips-resources.html#gen-ai-code-examples",
+    "title": "Project tips + resources",
+    "section": "",
+    "text": "OpenAI (2023a). Explore what’s possible with some example applications.\nOpenAI (2023b). Creating an automated meeting minutes generator with Whisper and GPT-4.\nLangChain (2023). Reference implementations of several LangChain agents as Streamlit apps\nCurated list of tools and projects using LangChain."
+  },
+  {
+    "objectID": "project-tips-resources.html#about-gen-ai",
+    "href": "project-tips-resources.html#about-gen-ai",
+    "title": "Project tips + resources",
+    "section": "About Gen AI",
+    "text": "About Gen AI\nGartner (2023a). Gartner Experts Answer the Top Generative AI Questions for Your Enterprise\nGartner (2023b) How Can Generative AI Be Used to Improve Customer Service and Support?\nMcKinsey (2023). The economic potential of generative AI: The next productivity frontier. White paper\nMicrosoft (2023). Responsible AI and Semantic Kernel.\nSequoia (2023). Generative AI’s Act Two.\nWIRED (2023). How WIRED Will Use Generative AI Tools."
+  },
+  {
+    "objectID": "project-tips-resources.html#ai-newsletters",
+    "href": "project-tips-resources.html#ai-newsletters",
+    "title": "Project tips + resources",
+    "section": "AI Newsletters",
+    "text": "AI Newsletters\nFree newsletters of Data Science articles, news, tools, libraries, and cool projects:\n\nThe Batch\nData Machina\nData Science Weekly"
+  },
+  {
+    "objectID": "project-tips-resources.html#gen-ai-companies",
+    "href": "project-tips-resources.html#gen-ai-companies",
+    "title": "Project tips + resources",
+    "section": "Gen AI companies",
+    "text": "Gen AI companies\nCharacter AI: Character.AI lets you create Characters and talk to them.\nCredo AI is an AI governance platform that helps companies adopt, scale, and govern AI safely and effectively.\nGlean: AI-powered workplace search. Across all your company’s apps.\nSpeechlab: Bridge Language Barriers through Generative Speech\nWorkera: Accelerate your enterprise transformation by assessing your team’s skills, rapidly upskilling, and measuring their progress in cutting-edge technologies like GenAI.\nWorkhelix brings together cutting-edge research and comprehensive data to assess your company’s Generative AI opportunity. Our software creates an interactive, dynamic roadmap tailored to your organization."
+  },
+  {
+    "objectID": "project-tips-resources.html#research-paper",
+    "href": "project-tips-resources.html#research-paper",
+    "title": "Project tips + resources",
+    "section": "Research paper",
+    "text": "Research paper\nBrynjolfsson, E., Li, D., & Raymond, L. R. (2023). Generative AI at work (No. w31161). National Bureau of Economic Research."
+  },
+  {
+    "objectID": "programming-troubleshooting.html",
+    "href": "programming-troubleshooting.html",
+    "title": "Programming troubleshooting",
+    "section": "",
+    "text": "tbd"
+  },
+  {
+    "objectID": "index.html",
+    "href": "index.html",
+    "title": "LLM Applications",
+    "section": "",
+    "text": "This page contains an outline of the topics and content for the course.\n\n\n\n\n\n\nNote\n\n\n\nThis schedule will be updated as the semester progresses.\n\n\n\n\n\nNr\nContent\nMaterial\n\n\n\n\n1\nProject introduction\n📑\n\n\n2\nGenerative AI\n🖥️ Slides\n\n\n3\nLarge Language Models\n🖥️ Slides\n\n\n4\nProgramming toolkit lab\n💻 Lab\n\n\n5\nData Science Lifecycle Overview\n📑\n\n\n6\n- Use case identification\n📑\n\n\n7\n- Value Creation Optimization\n📑\n\n\n8\n- Frame the Problem\n📑\n\n\n9\n- (Identify Variables)\n📑\n\n\n10\n- Define Metrics\n📑\n\n\n11\nPrompt Engineering\n💻 Lab\n\n\n12\nBuilding a Chat System\n\n\n\n13\nHuggingFace\n\n\n\n14\nLangChain Basics\n💻 Lab\n\n\n15\nLangChain RAG\n💻 Lab\n\n\n16\nBuild Apps with Gradio\n\n\n\n17\nBuild Apps with Streamlit\n\n\n\n18\nMicrosoft Semantic Kernel\n💻 Lab"
+  },
+  {
+    "objectID": "programming-requirements.html",
+    "href": "programming-requirements.html",
+    "title": "Requirements",
+    "section": "",
+    "text": "Programming Toolkit\n\n\n\nVisit the “Programming Toolkit-webpage” to learn how to meet all requirements.\n\n\nFor this course you will need the following toolkit ⚒️:\n\nPython: Anaconda / Anaconda Environments gradio, langchain, kernel / Visual Studio Code\nEnvironment: GitHub account / HuggingFace API key / OpenAI API / environment file with your APIs"
+  },
+  {
+    "objectID": "course-overview.html",
+    "href": "course-overview.html",
+    "title": "Course overview",
+    "section": "",
+    "text": "The course Large Language Model applications focuses on exploring and realizing the potential of LLMs (e.g., GPT-4 from OpenAI) to automate various business tasks. In particular, we will investigate how LLMs can be used to automate routine tasks such as composing emails and creating reports.\n\n\n\n\n\n\nGoal\n\n\n\nThe goal is to increase productivity and efficiency in companies while ensuring the quality and consistency of the content generated.\n\n\nThe project is offered in collaboration with Zoi, a company specializing in the development and consulting of AI-based technologies and applications in cloud environments."
+  },
+  {
+    "objectID": "project-description.html",
+    "href": "project-description.html",
+    "title": "Project description",
+    "section": "",
+    "text": "TL;DR: Choose an use case and use the concepts and methods covered in our course to effectively create a LLM application. That is your final project.\nThe goal of the final project is for you to create a LLM application of your own choosing and effectively document and communicate the results (using the concepts and technology we covered in this course).\nChoose the use case based on your group’s interests or work you all have done in other courses or research projects. The goal of this project is for you to demonstrate proficiency in the techniques we have covered in this course (and beyond, if you like) and apply them to a use case in a meaningful way.\nAll prototypes must be done in Python, and all components of the project must be reproducible (with the exception of the final presentation) placed inside the provided GitHub repo."
+  },
+  {
+    "objectID": "project-description.html#introduction",
+    "href": "project-description.html#introduction",
+    "title": "Project description",
+    "section": "",
+    "text": "TL;DR: Choose an use case and use the concepts and methods covered in our course to effectively create a LLM application. That is your final project.\nThe goal of the final project is for you to create a LLM application of your own choosing and effectively document and communicate the results (using the concepts and technology we covered in this course).\nChoose the use case based on your group’s interests or work you all have done in other courses or research projects. The goal of this project is for you to demonstrate proficiency in the techniques we have covered in this course (and beyond, if you like) and apply them to a use case in a meaningful way.\nAll prototypes must be done in Python, and all components of the project must be reproducible (with the exception of the final presentation) placed inside the provided GitHub repo."
+  },
+  {
+    "objectID": "project-description.html#sec-topic-ideas",
+    "href": "project-description.html#sec-topic-ideas",
+    "title": "Project description",
+    "section": "Topic ideas",
+    "text": "Topic ideas\nIdentify 3 project ideas you’re interested in potentially using for the final project. Use the “Big Idea Worksheet for Projects” to provide a short description of your project ideas.\nIf you’re unsure where to find use cases, you can use the Tips + Resources section as a starting point."
+  },
+  {
+    "objectID": "project-description.html#project-grading-criterias",
+    "href": "project-description.html#project-grading-criterias",
+    "title": "Project description",
+    "section": "Project grading criterias",
+    "text": "Project grading criterias\n1. Use Case Identification (20 points)\n\nRelevance and Originality (10 points)\n\nExceptional (8-10): Use case is original, highly relevant to the target audience, and exhibits deep insight into potential applications of generative AI.\nProficient (5-7): Use case is relevant and somewhat original.\nBasic (3-4): Use case is somewhat relevant but lacks originality.\nNeeds Improvement (0-2): Use case lacks relevance and originality.\n\nClear Definition and Scope (10 points)\n\nExceptional (8-10): The problem statement is clearly defined, its scope is appropriate, and boundaries are set.\nProficient (5-7): The problem is mostly defined with a reasonable scope.\nBasic (3-4): The problem definition and scope are vague.\nNeeds Improvement (0-2): The problem is poorly defined with an unclear scope.\n\n\n2. Application Development (40 points)\n\nCode Quality and Organization (10 points)\n\nExceptional (8-10): Code is exceptionally well-organized, uses effective naming conventions, includes meaningful comments, and follows best practices.\nProficient (5-7): Code is organized, generally follows best practices, but might have minor issues.\nBasic (3-4): Code is somewhat organized but lacks clarity, has sparse commenting, or has other issues.\nNeeds Improvement (0-2): Code is disorganized, lacks comments, and does not follow best practices.\n\nAlgorithm Implementation and Efficiency (15 points)\n\nExceptional (12-15): Algorithm is efficiently implemented, innovative, and addresses the generative AI use case effectively.\nProficient (8-11): Algorithm addresses the use case effectively but may lack optimization.\nBasic (4-7): Algorithm somewhat addresses the use case but has clear shortcomings.\nNeeds Improvement (0-3): Algorithm is poorly implemented or does not address the use case.\n\nError Handling and Robustness (10 points)\n\nExceptional (8-10): Application includes thorough error handling, manages exceptions gracefully, and provides helpful feedback.\nProficient (5-7): Basic error handling is present, with some exceptions managed.\nBasic (3-4): Minimal error handling, application may crash or behave unpredictably under unexpected conditions.\nNeeds Improvement (0-2): Application lacks error handling or is very fragile.\n\nIntegration of AI (5 points)\n\nExceptional (4-5): AI is seamlessly integrated, enhancing the application’s primary functions.\nProficient (3): AI is integrated but may not be central to the application.\nBasic (1-2): AI is present but feels tacked on or superficial.\nNeeds Improvement (0): Little to no AI integration.\n\n\n3. User Interface (UI) (20 points)\n\nDesign and Aesthetics (10 points)\n\nExceptional (8-10): UI is intuitive, visually appealing, and enhances user experience.\nProficient (5-7): UI is functional and mostly user-friendly but may lack visual appeal.\nBasic (3-4): UI has usability issues or lacks visual appeal.\nNeeds Improvement (0-2): UI is poorly designed or significantly hampers user experience.\n\nUsability and Interaction (10 points)\n\nExceptional (8-10): UI is highly interactive, responsive, and ensures a smooth user experience.\nProficient (5-7): UI is mostly interactive with minor issues.\nBasic (3-4): UI has several usability or interaction issues.\nNeeds Improvement (0-2): UI lacks interactivity or is difficult to use.\n\n\n4. Documentation and Presentation (20 points)\n\nProject Documentation with Design Science Research and GitHub (10 points)\n\nExceptional (8-10): Documentation is comprehensive, covering the use case, design decisions, implementation, and user instructions.\nProficient (5-7): Documentation covers most aspects of the project but may lack depth.\nBasic (3-4): Documentation covers some aspects but lacks clarity or detail.\nNeeds Improvement (0-2): Minimal to no documentation.\n\nPresentation and Communication (10 points)\n\nExceptional (8-10): Clearly and effectively communicates the project’s purpose, design, and results. Demonstrates enthusiasm and knowledge about the project.\nProficient (5-7): Communicates most aspects of the project effectively.\nBasic (3-4): Communication lacks clarity or misses key points.\nNeeds Improvement (0-2): Struggles to communicate the project’s purpose or results.\n\n\nTotal Maximum Points: 100"
+  },
+  {
     "objectID": "course-support.html",
     "href": "course-support.html",
     "title": "Course support",
@@ -159,54 +208,5 @@
     "title": "Course support",
     "section": "Academic support",
     "text": "Academic support\nThere are times you may need help with the class that is beyond what can be provided by the teaching team. In those instances, I encourage you to visit the Center for Learning and Development: it offers free services to all students."
-  },
-  {
-    "objectID": "code/notebook.html",
-    "href": "code/notebook.html",
-    "title": "Notebook",
-    "section": "",
-    "text": "Load Python libaries and API keys.\n\nimport os\nimport openai\nimport pandas as pd\nimport altair as alt\nfrom dotenv import load_dotenv, find_dotenv\n\n\n_ = load_dotenv(find_dotenv()) # read local .env file\nopenai.api_key  = os.environ['OPENAI_API_KEY']"
-  },
-  {
-    "objectID": "code/notebook.html#setup",
-    "href": "code/notebook.html#setup",
-    "title": "Notebook",
-    "section": "",
-    "text": "Load Python libaries and API keys.\n\nimport os\nimport openai\nimport pandas as pd\nimport altair as alt\nfrom dotenv import load_dotenv, find_dotenv\n\n\n_ = load_dotenv(find_dotenv()) # read local .env file\nopenai.api_key  = os.environ['OPENAI_API_KEY']"
-  },
-  {
-    "objectID": "code/notebook.html#data",
-    "href": "code/notebook.html#data",
-    "title": "Notebook",
-    "section": "Data",
-    "text": "Data"
-  },
-  {
-    "objectID": "project-description.html",
-    "href": "project-description.html",
-    "title": "Project description",
-    "section": "",
-    "text": "TL;DR: Choose an use case and use the concepts and methods covered in our course to effectively create a LLM application. That is your final project.\nThe goal of the final project is for you to create a LLM application of your own choosing and effectively document and communicate the results (using the concepts and technology we covered in this course).\nChoose the use case based on your group’s interests or work you all have done in other courses or research projects. The goal of this project is for you to demonstrate proficiency in the techniques we have covered in this course (and beyond, if you like) and apply them to a use case in a meaningful way.\nAll prototypes must be done in Python, and all components of the project must be reproducible (with the exception of the final presentation) placed inside the provided GitHub repo."
-  },
-  {
-    "objectID": "project-description.html#introduction",
-    "href": "project-description.html#introduction",
-    "title": "Project description",
-    "section": "",
-    "text": "TL;DR: Choose an use case and use the concepts and methods covered in our course to effectively create a LLM application. That is your final project.\nThe goal of the final project is for you to create a LLM application of your own choosing and effectively document and communicate the results (using the concepts and technology we covered in this course).\nChoose the use case based on your group’s interests or work you all have done in other courses or research projects. The goal of this project is for you to demonstrate proficiency in the techniques we have covered in this course (and beyond, if you like) and apply them to a use case in a meaningful way.\nAll prototypes must be done in Python, and all components of the project must be reproducible (with the exception of the final presentation) placed inside the provided GitHub repo."
-  },
-  {
-    "objectID": "project-description.html#sec-topic-ideas",
-    "href": "project-description.html#sec-topic-ideas",
-    "title": "Project description",
-    "section": "Topic ideas",
-    "text": "Topic ideas\nIdentify 3 project ideas you’re interested in potentially using for the final project. Use the “Big Idea Worksheet for Projects” to provide a short description of your project ideas.\nIf you’re unsure where to find use cases, you can use the Tips + Resources section as a starting point."
-  },
-  {
-    "objectID": "project-description.html#project-grading-criterias",
-    "href": "project-description.html#project-grading-criterias",
-    "title": "Project description",
-    "section": "Project grading criterias",
-    "text": "Project grading criterias\n1. Use Case Identification (20 points)\n\nRelevance and Originality (10 points)\n\nExceptional (8-10): Use case is original, highly relevant to the target audience, and exhibits deep insight into potential applications of generative AI.\nProficient (5-7): Use case is relevant and somewhat original.\nBasic (3-4): Use case is somewhat relevant but lacks originality.\nNeeds Improvement (0-2): Use case lacks relevance and originality.\n\nClear Definition and Scope (10 points)\n\nExceptional (8-10): The problem statement is clearly defined, its scope is appropriate, and boundaries are set.\nProficient (5-7): The problem is mostly defined with a reasonable scope.\nBasic (3-4): The problem definition and scope are vague.\nNeeds Improvement (0-2): The problem is poorly defined with an unclear scope.\n\n\n2. Application Development (40 points)\n\nCode Quality and Organization (10 points)\n\nExceptional (8-10): Code is exceptionally well-organized, uses effective naming conventions, includes meaningful comments, and follows best practices.\nProficient (5-7): Code is organized, generally follows best practices, but might have minor issues.\nBasic (3-4): Code is somewhat organized but lacks clarity, has sparse commenting, or has other issues.\nNeeds Improvement (0-2): Code is disorganized, lacks comments, and does not follow best practices.\n\nAlgorithm Implementation and Efficiency (15 points)\n\nExceptional (12-15): Algorithm is efficiently implemented, innovative, and addresses the generative AI use case effectively.\nProficient (8-11): Algorithm addresses the use case effectively but may lack optimization.\nBasic (4-7): Algorithm somewhat addresses the use case but has clear shortcomings.\nNeeds Improvement (0-3): Algorithm is poorly implemented or does not address the use case.\n\nError Handling and Robustness (10 points)\n\nExceptional (8-10): Application includes thorough error handling, manages exceptions gracefully, and provides helpful feedback.\nProficient (5-7): Basic error handling is present, with some exceptions managed.\nBasic (3-4): Minimal error handling, application may crash or behave unpredictably under unexpected conditions.\nNeeds Improvement (0-2): Application lacks error handling or is very fragile.\n\nIntegration of AI (5 points)\n\nExceptional (4-5): AI is seamlessly integrated, enhancing the application’s primary functions.\nProficient (3): AI is integrated but may not be central to the application.\nBasic (1-2): AI is present but feels tacked on or superficial.\nNeeds Improvement (0): Little to no AI integration.\n\n\n3. User Interface (UI) (20 points)\n\nDesign and Aesthetics (10 points)\n\nExceptional (8-10): UI is intuitive, visually appealing, and enhances user experience.\nProficient (5-7): UI is functional and mostly user-friendly but may lack visual appeal.\nBasic (3-4): UI has usability issues or lacks visual appeal.\nNeeds Improvement (0-2): UI is poorly designed or significantly hampers user experience.\n\nUsability and Interaction (10 points)\n\nExceptional (8-10): UI is highly interactive, responsive, and ensures a smooth user experience.\nProficient (5-7): UI is mostly interactive with minor issues.\nBasic (3-4): UI has several usability or interaction issues.\nNeeds Improvement (0-2): UI lacks interactivity or is difficult to use.\n\n\n4. Documentation and Presentation (20 points)\n\nProject Documentation with Design Science Research and GitHub (10 points)\n\nExceptional (8-10): Documentation is comprehensive, covering the use case, design decisions, implementation, and user instructions.\nProficient (5-7): Documentation covers most aspects of the project but may lack depth.\nBasic (3-4): Documentation covers some aspects but lacks clarity or detail.\nNeeds Improvement (0-2): Minimal to no documentation.\n\nPresentation and Communication (10 points)\n\nExceptional (8-10): Clearly and effectively communicates the project’s purpose, design, and results. Demonstrates enthusiasm and knowledge about the project.\nProficient (5-7): Communicates most aspects of the project effectively.\nBasic (3-4): Communication lacks clarity or misses key points.\nNeeds Improvement (0-2): Struggles to communicate the project’s purpose or results.\n\n\nTotal Maximum Points: 100"
   }
 ]
