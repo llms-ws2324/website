@@ -8,7 +8,7 @@ title: "Syllabus"
 |           | Day       | Time              | Location |
 |-----------|-----------|-------------------|----------|
 | Kick-off   | 25.09.-27.09    | 09:00  - 17:00  |  S205  |
-| Lecture   |  Monday   | 11:45  - 13:15  |  S205  |
+| Lecture   |  Monday   | 11:45  - 13:15  |  U32  |
 
 
 ![](/images/room.png){width="60%"}
