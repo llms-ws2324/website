@@ -15,9 +15,7 @@ All prototypes must be done in Python, and all components of the project **must 
 
 ## Topic ideas {#sec-topic-ideas}
 
-Identify 3 project ideas you're interested in potentially using for the final project. Use the ["Big Idea Worksheet for Projects"](https://docs.google.com/document/d/1UDTnv7mnqfOH-jgDf9ymtz1qw4q0dIm1VRK2OTeMF3A/edit?usp=sharing) to provide a short description of your project ideas.
-
-If you're unsure where to find use cases, you can use the [Tips + Resources](project-tips-resources.qmd) section as a starting point. 
+Identify 3 project ideas you're interested in potentially using for the final project. If you're unsure where to find use cases, you can use the [Tips + Resources](project-tips-resources.qmd) section as a starting point. 
 
 ## Project grading criterias
 
