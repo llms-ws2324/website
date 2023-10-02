@@ -15,7 +15,22 @@ All prototypes must be done in Python, and all components of the project **must 
 
 ## Topic ideas {#sec-topic-ideas}
 
-Identify 3 project ideas you're interested in potentially using for the final project. If you're unsure where to find use cases, you can use the [Tips + Resources](project-tips-resources.qmd) section as a starting point. 
+Identify 3 project ideas you're interested in potentially using for the final project. The use cases need to be applicable in a business setting. If you're unsure where to find use cases, you can use the [Tips + Resources](project-tips-resources.qmd) section as a starting point. 
+
+We will discuss the different options and select one use case.  
+
+## Use case identification presentation
+
+After we agreed on a use case, your team has to create presentation slides in [Google Slides](https://www.google.com/intl/en_en/slides/about/) (use an adequate [template](https://slidesgo.com/themes)). 
+
+You should be able to present the content in about 10 Minutes. Make sure to include the following concepts: 
+
+- Business Model Canvas
+- Strategy Map
+- Value Creation Optimization (if applicable)
+- Value Proposition Canvas
+- User Persona
+
 
 ## Project grading criterias
 
