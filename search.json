@@ -11,7 +11,7 @@
     "href": "index.html",
     "title": "LLM Applications",
     "section": "",
-    "text": "This page contains an outline of the topics and content for the course.\n\n\n\n\n\n\nNote\n\n\n\nThis schedule will be updated as the semester progresses.\n\n\n\n\n\nNr\nContent\nMaterial\n\n\n\n\n1\nProject introduction\n📑\n\n\n2\nGenerative AI\n🖥️ Slides\n\n\n3\nLarge Language Models\n🖥️ Slides\n\n\n4\nProgramming toolkit lab\n💻 Lab\n\n\n5\nData Science Lifecycle Overview\n📑\n\n\n6\n- Use case identification\n📑\n\n\n7\n- Value Creation Optimization\n📑\n\n\n8\n- Frame the Problem\n📑\n\n\n9\n- (Identify Variables)\n📑\n\n\n10\n- Define Metrics\n📑\n\n\n11\nPrompt Engineering\n💻 Lab\n\n\n12\nBuilding a Chat System\n💻 Lab\n\n\n13\nHuggingFace\n💻 Lab\n\n\n14\nLangChain Basics\n💻 Lab\n\n\n15\nLangChain RAG\n💻 Lab\n\n\n16\nBuild Apps with Gradio\n💻 Lab\n\n\n17\nBuild Apps with Streamlit\n💻 Lab\n\n\n18\nMicrosoft Semantic Kernel\n💻 Lab"
+    "text": "This page contains an outline of the topics and content for the course.\n\n\n\n\n\n\nNote\n\n\n\nThis schedule will be updated as the semester progresses.\n\n\n\n\n\nNr\nContent\nMaterial\n\n\n\n\n1\nProject introduction\n📑\n\n\n2\nGenerative AI\n🖥️ Slides\n\n\n3\nLarge Language Models\n🖥️ Slides\n\n\n4\nProgramming toolkit lab\n💻 Lab\n\n\n5\nData Science Lifecycle Overview\n📑\n\n\n6\nUse case identification\n📑\n\n\n7\nValue Creation Optimization\n📑\n\n\n8\nPrompt Engineering\n💻 Lab\n\n\n9\nBuilding a Chat System\n💻 Lab\n\n\n10\nHuggingFace\n💻 Lab\n\n\n11\nLangChain Basics\n💻 Lab\n\n\n12\nLangChain RAG\n💻 Lab\n\n\n13\nMicrosoft Semantic Kernel\n💻 Lab\n\n\n14\nBuild Apps with Gradio\n💻 Lab\n\n\n15\nBuild Apps with Streamlit\n💻 Lab"
   },
   {
     "objectID": "programming-troubleshooting.html",
@@ -200,7 +200,14 @@
     "href": "project-description.html#sec-topic-ideas",
     "title": "Project description",
     "section": "Topic ideas",
-    "text": "Topic ideas\nIdentify 3 project ideas you’re interested in potentially using for the final project. Use the “Big Idea Worksheet for Projects” to provide a short description of your project ideas.\nIf you’re unsure where to find use cases, you can use the Tips + Resources section as a starting point."
+    "text": "Topic ideas\nIdentify 3 project ideas you’re interested in potentially using for the final project. The use cases need to be applicable in a business setting. If you’re unsure where to find use cases, you can use the Tips + Resources section as a starting point.\nWe will discuss the different options and select one use case."
+  },
+  {
+    "objectID": "project-description.html#use-case-identification-presentation",
+    "href": "project-description.html#use-case-identification-presentation",
+    "title": "Project description",
+    "section": "Use case identification presentation",
+    "text": "Use case identification presentation\nAfter we agreed on a use case, your team has to create presentation slides in Google Slides (use an adequate template).\nYou should be able to present the content in about 10 Minutes. Make sure to include the following concepts:\n\nBusiness Model Canvas\nStrategy Map\nValue Creation Optimization (if applicable)\nValue Proposition Canvas\nUser Persona"
   },
   {
     "objectID": "project-description.html#project-grading-criterias",
