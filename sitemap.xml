@@ -1,39 +1,39 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   <url>
-    <loc>https://llms-ws2324.github.io//website/course-overview.html</loc>
-    <lastmod>2023-10-02T10:17:21.583Z</lastmod>
-  </url>
-  <url>
-    <loc>https://llms-ws2324.github.io//website/index.html</loc>
-    <lastmod>2023-10-02T10:17:20.607Z</lastmod>
-  </url>
-  <url>
-    <loc>https://llms-ws2324.github.io//website/programming-troubleshooting.html</loc>
-    <lastmod>2023-10-02T10:17:19.823Z</lastmod>
-  </url>
-  <url>
-    <loc>https://llms-ws2324.github.io//website/project-tips-resources.html</loc>
-    <lastmod>2023-10-02T10:17:19.095Z</lastmod>
-  </url>
-  <url>
-    <loc>https://llms-ws2324.github.io//website/programming-requirements.html</loc>
-    <lastmod>2023-10-02T10:17:17.299Z</lastmod>
-  </url>
-  <url>
     <loc>https://llms-ws2324.github.io//website/course-syllabus.html</loc>
-    <lastmod>2023-10-02T10:17:18.647Z</lastmod>
-  </url>
-  <url>
-    <loc>https://llms-ws2324.github.io//website/course-support.html</loc>
-    <lastmod>2023-10-02T10:17:19.475Z</lastmod>
-  </url>
-  <url>
-    <loc>https://llms-ws2324.github.io//website/code/notebook.html</loc>
-    <lastmod>2023-10-02T10:17:20.179Z</lastmod>
+    <lastmod>2023-10-30T16:40:51.705Z</lastmod>
   </url>
   <url>
     <loc>https://llms-ws2324.github.io//website/project-description.html</loc>
-    <lastmod>2023-10-02T10:17:21.207Z</lastmod>
+    <lastmod>2023-10-30T16:40:50.445Z</lastmod>
+  </url>
+  <url>
+    <loc>https://llms-ws2324.github.io//website/course-overview.html</loc>
+    <lastmod>2023-10-30T16:40:49.281Z</lastmod>
+  </url>
+  <url>
+    <loc>https://llms-ws2324.github.io//website/course-support.html</loc>
+    <lastmod>2023-10-30T16:40:48.237Z</lastmod>
+  </url>
+  <url>
+    <loc>https://llms-ws2324.github.io//website/code/notebook.html</loc>
+    <lastmod>2023-10-30T16:40:45.537Z</lastmod>
+  </url>
+  <url>
+    <loc>https://llms-ws2324.github.io//website/programming-requirements.html</loc>
+    <lastmod>2023-10-30T16:40:47.765Z</lastmod>
+  </url>
+  <url>
+    <loc>https://llms-ws2324.github.io//website/index.html</loc>
+    <lastmod>2023-10-30T16:40:48.809Z</lastmod>
+  </url>
+  <url>
+    <loc>https://llms-ws2324.github.io//website/programming-troubleshooting.html</loc>
+    <lastmod>2023-10-30T16:40:49.681Z</lastmod>
+  </url>
+  <url>
+    <loc>https://llms-ws2324.github.io//website/project-tips-resources.html</loc>
+    <lastmod>2023-10-30T16:40:50.921Z</lastmod>
   </url>
 </urlset>
