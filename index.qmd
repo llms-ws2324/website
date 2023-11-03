@@ -27,7 +27,7 @@ This schedule will be updated as the semester progresses.
 |		|	**LangChain** (10.11.23)	|		|		|	
 |	10	|	LangChain Basics	|	[💻 Lab](https://kirenz.github.io/lab-langchain-basics)	|	[💻 Source](https://www.deeplearning.ai/short-courses/langchain-for-llm-application-development/)	|	
 |	11	|	LangChain RAG	|	[💻 Lab](https://kirenz.github.io/lab-langchain-rag)	|	[💻 Source](https://www.deeplearning.ai/short-courses/langchain-chat-with-your-data/)	|	
-|	12	|	Functions, Tools and Agents with LangChain	|	tbd	|	[💻 Source](https://www.deeplearning.ai/short-courses/functions-tools-agents-langchain/)	|	
+|	12	|	Functions, Tools and Agents with LangChain	|	[💻 Lab(https://kirenz.github.io/lab-functions)"	|	[💻 Source](https://www.deeplearning.ai/short-courses/functions-tools-agents-langchain/)	|	
 |		|	**Semantic Kernel** (15.11.23)	|		|		|	
 |	13	|	Microsoft Semantic Kernel	|	[💻 Lab](https://kirenz.github.io/lab-semantic-kernel)	|	[💻 Source](https://www.deeplearning.ai/short-courses/microsoft-semantic-kernel/)	|	
 |		|	**HuggingFace** (15.11.23)	|		|		|	
@@ -35,4 +35,3 @@ This schedule will be updated as the semester progresses.
 |		|	**Dashboards** (22.11.23)	|		|		|	
 |	15	|	Build Apps with Gradio	|	[💻 Lab](https://kirenz.github.io/lab-llm-gradio)	|	[💻 Source](https://www.deeplearning.ai/short-courses/building-generative-ai-applications-with-gradio/)	|	
 |	16	|	Build Apps with Streamlit	|	[💻 Lab](https://github.com/kirenz/streamlit-app)	|		|	
-									
