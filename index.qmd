@@ -9,7 +9,6 @@ This page contains an outline of the topics and content for the course.
 This schedule will be updated as the semester progresses.
 :::
 
-
 |	Nr	|	Topic & Deadline	|	Material	|	Source	|	
 |	---	|	---	|	---	|	---	|	
 |		|	**Introduction** (10.11.23)	|		|		|	
@@ -22,19 +21,18 @@ This schedule will be updated as the semester progresses.
 |	6	|	Use case identification	|	[📑](https://docs.google.com/presentation/d/1RT7IhYgLgNJ8RiT28sMr8Mfyk5y_e-rfYg3jRsPKGEA/export/pdf)	|		|	
 |	7	|	Value Creation Optimization 	|	[📑](https://drive.google.com/file/d/1ivNrca-sRmefay4t3_FVLDH3Mn-p5CgF/view?usp=drive_link)	|		|	
 |		|	**Prompt Engineering** (8.11.23)	|		|		|	
-|	8	|	Prompt Engineering	|	[💻 Lab](https://kirenz.github.io/lab-prompt)	|	[💻 Source](https://www.deeplearning.ai/short-courses/chatgpt-prompt-engineering-for-developers/)	|	
-|	9	|	Building a Chat System	|	[💻 Lab](https://kirenz.github.io/lab-chat-system)	|	[💻 Source](https://www.deeplearning.ai/short-courses/building-systems-with-chatgpt/)	|	
+|	8	|	Prompt Engineering	|	[💻 Lab](https://kirenz.github.io/lab-prompt)	|	[📖(https://www.deeplearning.ai/short-courses/chatgpt-prompt-engineering-for-developers/)	|	
+|	9	|	Building a Chat System	|	[💻 Lab](https://kirenz.github.io/lab-chat-system)	|	[📖](https://www.deeplearning.ai/short-courses/building-systems-with-chatgpt/)	|	
 |		|	**LangChain** (10.11.23)	|		|		|	
-|	10	|	LangChain Basics	|	[💻 Lab](https://kirenz.github.io/lab-langchain-basics)	|	[💻 Source](https://www.deeplearning.ai/short-courses/langchain-for-llm-application-development/)	|	
-|	11	|	LangChain RAG	|	[💻 Lab](https://kirenz.github.io/lab-langchain-rag)	|	[💻 Source](https://www.deeplearning.ai/short-courses/langchain-chat-with-your-data/)	|	
-|	12	|	Functions, Tools and Agents with LangChain	|	[💻 Lab](https://kirenz.github.io/lab-functions)	|	[💻 Source](https://www.deeplearning.ai/short-courses/functions-tools-agents-langchain/)	|	
+|	10	|	LangChain Basics	|	[💻 Lab](https://kirenz.github.io/lab-langchain-basics)	|	[📖](https://www.deeplearning.ai/short-courses/langchain-for-llm-application-development/)	|	
+|	11	|	LangChain RAG	|	[💻 Lab](https://kirenz.github.io/lab-langchain-rag)	|	[📖](https://www.deeplearning.ai/short-courses/langchain-chat-with-your-data/)	|	
+|	12	|	Functions, Tools and Agents with LangChain	|	[💻 Lab](https://kirenz.github.io/lab-functions)	|	[📖](https://www.deeplearning.ai/short-courses/functions-tools-agents-langchain/)	|	
 |		|	**Semantic Kernel** (15.11.23)	|		|		|	
-|	13	|	Microsoft Semantic Kernel	|	[💻 Lab](https://kirenz.github.io/lab-semantic-kernel)	|	[💻 Source](https://www.deeplearning.ai/short-courses/microsoft-semantic-kernel/)	|	
+|	13	|	Microsoft Semantic Kernel	|	[💻 Lab](https://kirenz.github.io/lab-semantic-kernel)	|	[📖](https://www.deeplearning.ai/short-courses/microsoft-semantic-kernel/)	|	
 |		|	**HuggingFace** (15.11.23)	|		|		|	
 |	14	|	HuggingFace 	|	[💻 Lab](https://kirenz.github.io/lab-huggingface)	|		|	
 |		|	**Dashboards** (22.11.23)	|		|		|	
-|	15	|	Build Apps with Gradio	|	[💻 Lab](https://kirenz.github.io/lab-llm-gradio)	|	[💻 Source](https://www.deeplearning.ai/short-courses/building-generative-ai-applications-with-gradio/)	|	
+|	15	|	Build Apps with Gradio	|	[💻 Lab](https://kirenz.github.io/lab-llm-gradio)	|	[📖](https://www.deeplearning.ai/short-courses/building-generative-ai-applications-with-gradio/)	|	
 |	16	|	Build Apps with Streamlit	|	[💻 Lab](https://github.com/kirenz/streamlit-app)	|		|	
 |		|	**Assistants API & GPTs**	|		|		|	
 |	17	|	First steps with Assistants API	|	[💻 Lab](https://kirenz.github.io/lab-assistants-api/)	|		|	
-|		|		|		|		|	
