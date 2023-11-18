@@ -33,7 +33,7 @@ This schedule will be updated as the semester progresses.
 |	14	|	HuggingFace 	|	[💻 Lab](https://kirenz.github.io/lab-huggingface)	|		|	
 |		|	**Dashboards** (22.11.23)	|		|		|	
 |	15	|	Build Apps with Gradio	|	[💻 Lab](https://kirenz.github.io/lab-llm-gradio)	|	[📖](https://www.deeplearning.ai/short-courses/building-generative-ai-applications-with-gradio/)	|	
-|	16	|	Build Apps with Streamlit	|	[App](https://github.com/kirenz/streamlit-app)	|		|	
-|	17	|	State of Streamlit LLM Apps 2023	|	[💻 Lab](https://state-of-llm.streamlit.app/)	|		|	
+|	16	|	Build Apps with Streamlit	|	[💻 Lab](https://github.com/kirenz/streamlit-app)	|		|	
+|	17	|	State of Streamlit LLM Apps 2023	|	[Apps](https://state-of-llm.streamlit.app/)	|		|	
 |		|	**Assistants API & GPTs**	|		|		|	
 |	18	|	First steps with Assistants API	|	[💻 Lab](https://kirenz.github.io/lab-assistants-api/)	|		|	
